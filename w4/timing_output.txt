@@ -1,0 +1,4 @@
+Time to populate spheres: 0.001768s 
+Time to calculate areas: 0.001245s 
+Time to calculate volumes: 0.001872s 
+Time to calculate intersects: 0.383107s 
