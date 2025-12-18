@@ -1,0 +1,47 @@
+allexport      	off
+braceexpand    	on
+emacs          	off
+errexit        	on
+errtrace       	off
+functrace      	off
+hashall        	on
+histexpand     	off
+history        	off
+ignoreeof      	off
+interactive-comments	on
+keyword        	off
+monitor        	off
+noclobber      	off
+noexec         	off
+noglob         	off
+nolog          	off
+notify         	off
+nounset        	on
+onecmd         	off
+physical       	off
+pipefail       	off
+posix          	off
+privileged     	off
+verbose        	off
+vi             	off
+xtrace         	off
+
+============================
+ Job utilisation efficiency
+============================
+
+Job ID: 28105042
+Cluster: viking2.yor.alces.network
+User/Group: lj1219/clusterusers
+State: FAILED (exit code 1)
+Nodes: 2
+Cores per node: 4
+CPU Utilized: 00:00:01
+CPU Efficiency: 6.25% of 00:00:16 core-walltime
+Job Wall-clock time: 00:00:02
+Memory Utilized: 5.04 MB
+Memory Efficiency: 0.10% of 4.69 GB
+ Requested wall clock time: 00:15:00
+    Actual wall clock time: 00:00:02
+Wall clock time efficiency: 0.2%
+           Job queued time: 00:00:05

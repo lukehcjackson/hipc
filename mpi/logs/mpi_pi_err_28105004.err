@@ -1,0 +1,20 @@
+mpi-pi.c: In function ‘main’:
+mpi-pi.c:19:36: error: ‘size’ undeclared (first use in this function)
+   19 |     MPI_Comm_size(MPI_COMM_WORLD, &size);
+      |                                    ^~~~
+mpi-pi.c:19:36: note: each undeclared identifier is reported only once for each function it appears in
+mpi-pi.c:20:36: error: ‘rank’ undeclared (first use in this function); did you mean ‘rand’?
+   20 |     MPI_Comm_rank(MPI_COMM_WORLD, &rank);
+      |                                    ^~~~
+      |                                    rand
+mpi-pi.c:22:11: warning: implicit declaration of function ‘time’ [-Wimplicit-function-declaration]
+   22 |     srand(time(NULL));
+      |           ^~~~
+mpi-pi.c:7:1: note: ‘time’ is defined in header ‘<time.h>’; did you forget to ‘#include <time.h>’?
+    6 | #include <mpi.h>
+  +++ |+#include <time.h>
+    7 | 
+mpi-pi.c:61:9: warning: implicit declaration of function ‘MPI_AllReduce’; did you mean ‘MPI_Allreduce’? [-Wimplicit-function-declaration]
+   61 |         MPI_AllReduce(&local_in, &in, 1, MPI_INT, MPI_SUM, MPI_COMM_WORLD);
+      |         ^~~~~~~~~~~~~
+      |         MPI_Allreduce

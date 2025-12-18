@@ -1,0 +1,1655 @@
+allexport      	off
+braceexpand    	on
+emacs          	off
+errexit        	on
+errtrace       	off
+functrace      	off
+hashall        	on
+histexpand     	off
+history        	off
+ignoreeof      	off
+interactive-comments	on
+keyword        	off
+monitor        	off
+noclobber      	off
+noexec         	off
+noglob         	off
+nolog          	off
+notify         	off
+nounset        	on
+onecmd         	off
+physical       	off
+pipefail       	off
+posix          	off
+privileged     	off
+verbose        	off
+vi             	off
+xtrace         	off
+I am rank 3 on round 1 and I think pi is -nan 
+Round: 1 Pi: 3.068000 
+I am rank 3 on round 2 and I think pi is 3.068000 
+Round: 2 Pi: 3.090000 
+I am rank 3 on round 3 and I think pi is 3.090000 
+Round: 3 Pi: 3.104000 
+I am rank 3 on round 4 and I think pi is 3.104000 
+Round: 4 Pi: 3.106000 
+I am rank 3 on round 5 and I think pi is 3.106000 
+Round: 5 Pi: 3.122400 
+I am rank 3 on round 6 and I think pi is 3.122400 
+Round: 6 Pi: 3.140000 
+I am rank 3 on round 7 and I think pi is 3.140000 
+Round: 7 Pi: 3.137143 
+I am rank 3 on round 8 and I think pi is 3.137143 
+Round: 8 Pi: 3.122500 
+I am rank 3 on round 9 and I think pi is 3.122500 
+Round: 9 Pi: 3.119555 
+I am rank 3 on round 10 and I think pi is 3.119555 
+Round: 10 Pi: 3.124800 
+I am rank 3 on round 11 and I think pi is 3.124800 
+Round: 11 Pi: 3.129091 
+I am rank 3 on round 12 and I think pi is 3.129091 
+Round: 12 Pi: 3.124667 
+I am rank 3 on round 13 and I think pi is 3.124667 
+Round: 13 Pi: 3.125231 
+I am rank 3 on round 14 and I think pi is 3.125231 
+Round: 14 Pi: 3.119714 
+I am rank 3 on round 15 and I think pi is 3.119714 
+Round: 15 Pi: 3.118133 
+I am rank 3 on round 16 and I think pi is 3.118133 
+Round: 16 Pi: 3.122750 
+I am rank 3 on round 17 and I think pi is 3.122750 
+Round: 17 Pi: 3.122353 
+I am rank 3 on round 18 and I think pi is 3.122353 
+Round: 18 Pi: 3.122000 
+I am rank 3 on round 19 and I think pi is 3.122000 
+Round: 19 Pi: 3.125263 
+I am rank 3 on round 20 and I think pi is 3.125263 
+Round: 20 Pi: 3.128000 
+I am rank 3 on round 21 and I think pi is 3.128000 
+Round: 21 Pi: 3.126667 
+I am rank 3 on round 22 and I think pi is 3.126667 
+Round: 22 Pi: 3.128000 
+I am rank 3 on round 23 and I think pi is 3.128000 
+Round: 23 Pi: 3.131478 
+I am rank 3 on round 24 and I think pi is 3.131478 
+Round: 24 Pi: 3.132000 
+I am rank 3 on round 25 and I think pi is 3.132000 
+Round: 25 Pi: 3.130560 
+I am rank 3 on round 26 and I think pi is 3.130560 
+Round: 26 Pi: 3.136308 
+I am rank 3 on round 27 and I think pi is 3.136308 
+Round: 27 Pi: 3.137481 
+I am rank 3 on round 28 and I think pi is 3.137481 
+Round: 28 Pi: 3.137857 
+I am rank 3 on round 29 and I think pi is 3.137857 
+Round: 29 Pi: 3.134621 
+I am rank 3 on round 30 and I think pi is 3.134621 
+Round: 30 Pi: 3.139067 
+I am rank 3 on round 31 and I think pi is 3.139067 
+Round: 31 Pi: 3.142065 
+I am rank 3 on round 32 and I think pi is 3.142065 
+Round: 32 Pi: 3.142125 
+I am rank 3 on round 33 and I think pi is 3.142125 
+Round: 33 Pi: 3.139515 
+I am rank 3 on round 34 and I think pi is 3.139515 
+Round: 34 Pi: 3.142471 
+I am rank 3 on round 35 and I think pi is 3.142471 
+Round: 35 Pi: 3.142857 
+I am rank 3 on round 36 and I think pi is 3.142857 
+Round: 36 Pi: 3.145778 
+I am rank 3 on round 37 and I think pi is 3.145778 
+Round: 37 Pi: 3.144757 
+I am rank 3 on round 38 and I think pi is 3.144757 
+Round: 38 Pi: 3.146210 
+I am rank 4 on round 1 and I think pi is -nan 
+Round: 1 Pi: 3.068000 
+I am rank 4 on round 2 and I think pi is 3.068000 
+Round: 2 Pi: 3.090000 
+I am rank 4 on round 3 and I think pi is 3.090000 
+Round: 3 Pi: 3.104000 
+I am rank 4 on round 4 and I think pi is 3.104000 
+Round: 4 Pi: 3.106000 
+I am rank 4 on round 5 and I think pi is 3.106000 
+Round: 5 Pi: 3.122400 
+I am rank 4 on round 6 and I think pi is 3.122400 
+Round: 6 Pi: 3.140000 
+I am rank 4 on round 7 and I think pi is 3.140000 
+Round: 7 Pi: 3.137143 
+I am rank 4 on round 8 and I think pi is 3.137143 
+Round: 8 Pi: 3.122500 
+I am rank 4 on round 9 and I think pi is 3.122500 
+Round: 9 Pi: 3.119555 
+I am rank 4 on round 10 and I think pi is 3.119555 
+Round: 10 Pi: 3.124800 
+I am rank 4 on round 11 and I think pi is 3.124800 
+Round: 11 Pi: 3.129091 
+I am rank 4 on round 12 and I think pi is 3.129091 
+Round: 12 Pi: 3.124667 
+I am rank 4 on round 13 and I think pi is 3.124667 
+Round: 13 Pi: 3.125231 
+I am rank 4 on round 14 and I think pi is 3.125231 
+Round: 14 Pi: 3.119714 
+I am rank 4 on round 15 and I think pi is 3.119714 
+Round: 15 Pi: 3.118133 
+I am rank 4 on round 16 and I think pi is 3.118133 
+Round: 16 Pi: 3.122750 
+I am rank 4 on round 17 and I think pi is 3.122750 
+Round: 17 Pi: 3.122353 
+I am rank 4 on round 18 and I think pi is 3.122353 
+Round: 18 Pi: 3.122000 
+I am rank 4 on round 19 and I think pi is 3.122000 
+Round: 19 Pi: 3.125263 
+I am rank 4 on round 20 and I think pi is 3.125263 
+Round: 20 Pi: 3.128000 
+I am rank 4 on round 21 and I think pi is 3.128000 
+Round: 21 Pi: 3.126667 
+I am rank 4 on round 22 and I think pi is 3.126667 
+Round: 22 Pi: 3.128000 
+I am rank 4 on round 23 and I think pi is 3.128000 
+Round: 23 Pi: 3.131478 
+I am rank 4 on round 24 and I think pi is 3.131478 
+Round: 24 Pi: 3.132000 
+I am rank 4 on round 25 and I think pi is 3.132000 
+Round: 25 Pi: 3.130560 
+I am rank 4 on round 26 and I think pi is 3.130560 
+Round: 26 Pi: 3.136308 
+I am rank 4 on round 27 and I think pi is 3.136308 
+Round: 27 Pi: 3.137481 
+I am rank 4 on round 28 and I think pi is 3.137481 
+Round: 28 Pi: 3.137857 
+I am rank 4 on round 29 and I think pi is 3.137857 
+Round: 29 Pi: 3.134621 
+I am rank 4 on round 30 and I think pi is 3.134621 
+Round: 30 Pi: 3.139067 
+I am rank 4 on round 31 and I think pi is 3.139067 
+Round: 31 Pi: 3.142065 
+I am rank 4 on round 32 and I think pi is 3.142065 
+Round: 32 Pi: 3.142125 
+I am rank 4 on round 33 and I think pi is 3.142125 
+Round: 33 Pi: 3.139515 
+I am rank 4 on round 34 and I think pi is 3.139515 
+Round: 34 Pi: 3.142471 
+I am rank 4 on round 35 and I think pi is 3.142471 
+Round: 35 Pi: 3.142857 
+I am rank 4 on round 36 and I think pi is 3.142857 
+Round: 36 Pi: 3.145778 
+I am rank 4 on round 37 and I think pi is 3.145778 
+Round: 37 Pi: 3.144757 
+I am rank 4 on round 38 and I think pi is 3.144757 
+Round: 38 Pi: 3.146210 
+I am rank 5 on round 1 and I think pi is -nan 
+Round: 1 Pi: 3.068000 
+I am rank 5 on round 2 and I think pi is 3.068000 
+Round: 2 Pi: 3.090000 
+I am rank 5 on round 3 and I think pi is 3.090000 
+Round: 3 Pi: 3.104000 
+I am rank 5 on round 4 and I think pi is 3.104000 
+Round: 4 Pi: 3.106000 
+I am rank 5 on round 5 and I think pi is 3.106000 
+Round: 5 Pi: 3.122400 
+I am rank 5 on round 6 and I think pi is 3.122400 
+Round: 6 Pi: 3.140000 
+I am rank 5 on round 7 and I think pi is 3.140000 
+Round: 7 Pi: 3.137143 
+I am rank 5 on round 8 and I think pi is 3.137143 
+Round: 8 Pi: 3.122500 
+I am rank 5 on round 9 and I think pi is 3.122500 
+Round: 9 Pi: 3.119555 
+I am rank 5 on round 10 and I think pi is 3.119555 
+Round: 10 Pi: 3.124800 
+I am rank 5 on round 11 and I think pi is 3.124800 
+Round: 11 Pi: 3.129091 
+I am rank 5 on round 12 and I think pi is 3.129091 
+Round: 12 Pi: 3.124667 
+I am rank 5 on round 13 and I think pi is 3.124667 
+Round: 13 Pi: 3.125231 
+I am rank 5 on round 14 and I think pi is 3.125231 
+Round: 14 Pi: 3.119714 
+I am rank 5 on round 15 and I think pi is 3.119714 
+Round: 15 Pi: 3.118133 
+I am rank 5 on round 16 and I think pi is 3.118133 
+Round: 16 Pi: 3.122750 
+I am rank 5 on round 17 and I think pi is 3.122750 
+Round: 17 Pi: 3.122353 
+I am rank 5 on round 18 and I think pi is 3.122353 
+Round: 18 Pi: 3.122000 
+I am rank 5 on round 19 and I think pi is 3.122000 
+Round: 19 Pi: 3.125263 
+I am rank 5 on round 20 and I think pi is 3.125263 
+Round: 20 Pi: 3.128000 
+I am rank 5 on round 21 and I think pi is 3.128000 
+Round: 21 Pi: 3.126667 
+I am rank 5 on round 22 and I think pi is 3.126667 
+Round: 22 Pi: 3.128000 
+I am rank 5 on round 23 and I think pi is 3.128000 
+Round: 23 Pi: 3.131478 
+I am rank 5 on round 24 and I think pi is 3.131478 
+Round: 24 Pi: 3.132000 
+I am rank 5 on round 25 and I think pi is 3.132000 
+Round: 25 Pi: 3.130560 
+I am rank 5 on round 26 and I think pi is 3.130560 
+Round: 26 Pi: 3.136308 
+I am rank 5 on round 27 and I think pi is 3.136308 
+Round: 27 Pi: 3.137481 
+I am rank 5 on round 28 and I think pi is 3.137481 
+Round: 28 Pi: 3.137857 
+I am rank 5 on round 29 and I think pi is 3.137857 
+Round: 29 Pi: 3.134621 
+I am rank 5 on round 30 and I think pi is 3.134621 
+Round: 30 Pi: 3.139067 
+I am rank 5 on round 31 and I think pi is 3.139067 
+Round: 31 Pi: 3.142065 
+I am rank 5 on round 32 and I think pi is 3.142065 
+Round: 32 Pi: 3.142125 
+I am rank 5 on round 33 and I think pi is 3.142125 
+Round: 33 Pi: 3.139515 
+I am rank 5 on round 34 and I think pi is 3.139515 
+Round: 34 Pi: 3.142471 
+I am rank 5 on round 35 and I think pi is 3.142471 
+Round: 35 Pi: 3.142857 
+I am rank 5 on round 36 and I think pi is 3.142857 
+Round: 36 Pi: 3.145778 
+I am rank 5 on round 37 and I think pi is 3.145778 
+Round: 37 Pi: 3.144757 
+I am rank 5 on round 38 and I think pi is 3.144757 
+Round: 38 Pi: 3.146210 
+I am rank 6 on round 1 and I think pi is -nan 
+Round: 1 Pi: 3.068000 
+I am rank 6 on round 2 and I think pi is 3.068000 
+Round: 2 Pi: 3.090000 
+I am rank 6 on round 3 and I think pi is 3.090000 
+Round: 3 Pi: 3.104000 
+I am rank 6 on round 4 and I think pi is 3.104000 
+Round: 4 Pi: 3.106000 
+I am rank 6 on round 5 and I think pi is 3.106000 
+Round: 5 Pi: 3.122400 
+I am rank 6 on round 6 and I think pi is 3.122400 
+Round: 6 Pi: 3.140000 
+I am rank 6 on round 7 and I think pi is 3.140000 
+Round: 7 Pi: 3.137143 
+I am rank 6 on round 8 and I think pi is 3.137143 
+Round: 8 Pi: 3.122500 
+I am rank 6 on round 9 and I think pi is 3.122500 
+Round: 9 Pi: 3.119555 
+I am rank 6 on round 10 and I think pi is 3.119555 
+Round: 10 Pi: 3.124800 
+I am rank 6 on round 11 and I think pi is 3.124800 
+Round: 11 Pi: 3.129091 
+I am rank 6 on round 12 and I think pi is 3.129091 
+Round: 12 Pi: 3.124667 
+I am rank 6 on round 13 and I think pi is 3.124667 
+Round: 13 Pi: 3.125231 
+I am rank 6 on round 14 and I think pi is 3.125231 
+Round: 14 Pi: 3.119714 
+I am rank 6 on round 15 and I think pi is 3.119714 
+Round: 15 Pi: 3.118133 
+I am rank 6 on round 16 and I think pi is 3.118133 
+Round: 16 Pi: 3.122750 
+I am rank 6 on round 17 and I think pi is 3.122750 
+Round: 17 Pi: 3.122353 
+I am rank 6 on round 18 and I think pi is 3.122353 
+Round: 18 Pi: 3.122000 
+I am rank 6 on round 19 and I think pi is 3.122000 
+Round: 19 Pi: 3.125263 
+I am rank 6 on round 20 and I think pi is 3.125263 
+Round: 20 Pi: 3.128000 
+I am rank 6 on round 21 and I think pi is 3.128000 
+Round: 21 Pi: 3.126667 
+I am rank 6 on round 22 and I think pi is 3.126667 
+Round: 22 Pi: 3.128000 
+I am rank 6 on round 23 and I think pi is 3.128000 
+Round: 23 Pi: 3.131478 
+I am rank 6 on round 24 and I think pi is 3.131478 
+Round: 24 Pi: 3.132000 
+I am rank 6 on round 25 and I think pi is 3.132000 
+Round: 25 Pi: 3.130560 
+I am rank 6 on round 26 and I think pi is 3.130560 
+Round: 26 Pi: 3.136308 
+I am rank 6 on round 27 and I think pi is 3.136308 
+Round: 27 Pi: 3.137481 
+I am rank 6 on round 28 and I think pi is 3.137481 
+Round: 28 Pi: 3.137857 
+I am rank 6 on round 29 and I think pi is 3.137857 
+Round: 29 Pi: 3.134621 
+I am rank 6 on round 30 and I think pi is 3.134621 
+Round: 30 Pi: 3.139067 
+I am rank 6 on round 31 and I think pi is 3.139067 
+Round: 31 Pi: 3.142065 
+I am rank 6 on round 32 and I think pi is 3.142065 
+Round: 32 Pi: 3.142125 
+I am rank 6 on round 33 and I think pi is 3.142125 
+Round: 33 Pi: 3.139515 
+I am rank 6 on round 34 and I think pi is 3.139515 
+Round: 34 Pi: 3.142471 
+I am rank 6 on round 35 and I think pi is 3.142471 
+Round: 35 Pi: 3.142857 
+I am rank 6 on round 36 and I think pi is 3.142857 
+Round: 36 Pi: 3.145778 
+I am rank 6 on round 37 and I think pi is 3.145778 
+Round: 37 Pi: 3.144757 
+I am rank 6 on round 38 and I think pi is 3.144757 
+Round: 38 Pi: 3.146210 
+I am rank 7 on round 1 and I think pi is -nan 
+Round: 1 Pi: 3.068000 
+I am rank 7 on round 2 and I think pi is 3.068000 
+Round: 2 Pi: 3.090000 
+I am rank 7 on round 3 and I think pi is 3.090000 
+Round: 3 Pi: 3.104000 
+I am rank 7 on round 4 and I think pi is 3.104000 
+Round: 4 Pi: 3.106000 
+I am rank 7 on round 5 and I think pi is 3.106000 
+Round: 5 Pi: 3.122400 
+I am rank 7 on round 6 and I think pi is 3.122400 
+Round: 6 Pi: 3.140000 
+I am rank 7 on round 7 and I think pi is 3.140000 
+Round: 7 Pi: 3.137143 
+I am rank 7 on round 8 and I think pi is 3.137143 
+Round: 8 Pi: 3.122500 
+I am rank 7 on round 9 and I think pi is 3.122500 
+Round: 9 Pi: 3.119555 
+I am rank 7 on round 10 and I think pi is 3.119555 
+Round: 10 Pi: 3.124800 
+I am rank 7 on round 11 and I think pi is 3.124800 
+Round: 11 Pi: 3.129091 
+I am rank 7 on round 12 and I think pi is 3.129091 
+Round: 12 Pi: 3.124667 
+I am rank 7 on round 13 and I think pi is 3.124667 
+Round: 13 Pi: 3.125231 
+I am rank 7 on round 14 and I think pi is 3.125231 
+Round: 14 Pi: 3.119714 
+I am rank 7 on round 15 and I think pi is 3.119714 
+Round: 15 Pi: 3.118133 
+I am rank 7 on round 16 and I think pi is 3.118133 
+Round: 16 Pi: 3.122750 
+I am rank 7 on round 17 and I think pi is 3.122750 
+Round: 17 Pi: 3.122353 
+I am rank 7 on round 18 and I think pi is 3.122353 
+Round: 18 Pi: 3.122000 
+I am rank 7 on round 19 and I think pi is 3.122000 
+Round: 19 Pi: 3.125263 
+I am rank 7 on round 20 and I think pi is 3.125263 
+Round: 20 Pi: 3.128000 
+I am rank 7 on round 21 and I think pi is 3.128000 
+Round: 21 Pi: 3.126667 
+I am rank 7 on round 22 and I think pi is 3.126667 
+Round: 22 Pi: 3.128000 
+I am rank 7 on round 23 and I think pi is 3.128000 
+Round: 23 Pi: 3.131478 
+I am rank 7 on round 24 and I think pi is 3.131478 
+Round: 24 Pi: 3.132000 
+I am rank 7 on round 25 and I think pi is 3.132000 
+Round: 25 Pi: 3.130560 
+I am rank 7 on round 26 and I think pi is 3.130560 
+Round: 26 Pi: 3.136308 
+I am rank 7 on round 27 and I think pi is 3.136308 
+Round: 27 Pi: 3.137481 
+I am rank 7 on round 28 and I think pi is 3.137481 
+Round: 28 Pi: 3.137857 
+I am rank 7 on round 29 and I think pi is 3.137857 
+Round: 29 Pi: 3.134621 
+I am rank 7 on round 30 and I think pi is 3.134621 
+Round: 30 Pi: 3.139067 
+I am rank 7 on round 31 and I think pi is 3.139067 
+Round: 31 Pi: 3.142065 
+I am rank 7 on round 32 and I think pi is 3.142065 
+Round: 32 Pi: 3.142125 
+I am rank 7 on round 33 and I think pi is 3.142125 
+Round: 33 Pi: 3.139515 
+I am rank 7 on round 34 and I think pi is 3.139515 
+Round: 34 Pi: 3.142471 
+I am rank 7 on round 35 and I think pi is 3.142471 
+Round: 35 Pi: 3.142857 
+I am rank 7 on round 36 and I think pi is 3.142857 
+Round: 36 Pi: 3.145778 
+I am rank 7 on round 37 and I think pi is 3.145778 
+Round: 37 Pi: 3.144757 
+I am rank 7 on round 38 and I think pi is 3.144757 
+Round: 38 Pi: 3.146210 
+I am rank 0 on round 1 and I think pi is -nan 
+Round: 1 Pi: 3.068000 
+I am rank 0 on round 2 and I think pi is 3.068000 
+Round: 2 Pi: 3.090000 
+I am rank 0 on round 3 and I think pi is 3.090000 
+Round: 3 Pi: 3.104000 
+I am rank 0 on round 4 and I think pi is 3.104000 
+Round: 4 Pi: 3.106000 
+I am rank 0 on round 5 and I think pi is 3.106000 
+Round: 5 Pi: 3.122400 
+I am rank 0 on round 6 and I think pi is 3.122400 
+Round: 6 Pi: 3.140000 
+I am rank 0 on round 7 and I think pi is 3.140000 
+Round: 7 Pi: 3.137143 
+I am rank 0 on round 8 and I think pi is 3.137143 
+Round: 8 Pi: 3.122500 
+I am rank 0 on round 9 and I think pi is 3.122500 
+Round: 9 Pi: 3.119555 
+I am rank 0 on round 10 and I think pi is 3.119555 
+Round: 10 Pi: 3.124800 
+I am rank 0 on round 11 and I think pi is 3.124800 
+Round: 11 Pi: 3.129091 
+I am rank 0 on round 12 and I think pi is 3.129091 
+Round: 12 Pi: 3.124667 
+I am rank 0 on round 13 and I think pi is 3.124667 
+Round: 13 Pi: 3.125231 
+I am rank 0 on round 14 and I think pi is 3.125231 
+Round: 14 Pi: 3.119714 
+I am rank 0 on round 15 and I think pi is 3.119714 
+Round: 15 Pi: 3.118133 
+I am rank 0 on round 16 and I think pi is 3.118133 
+Round: 16 Pi: 3.122750 
+I am rank 0 on round 17 and I think pi is 3.122750 
+Round: 17 Pi: 3.122353 
+I am rank 0 on round 18 and I think pi is 3.122353 
+Round: 18 Pi: 3.122000 
+I am rank 0 on round 19 and I think pi is 3.122000 
+Round: 19 Pi: 3.125263 
+I am rank 0 on round 20 and I think pi is 3.125263 
+Round: 20 Pi: 3.128000 
+I am rank 0 on round 21 and I think pi is 3.128000 
+Round: 21 Pi: 3.126667 
+I am rank 0 on round 22 and I think pi is 3.126667 
+Round: 22 Pi: 3.128000 
+I am rank 0 on round 23 and I think pi is 3.128000 
+Round: 23 Pi: 3.131478 
+I am rank 0 on round 24 and I think pi is 3.131478 
+Round: 24 Pi: 3.132000 
+I am rank 0 on round 25 and I think pi is 3.132000 
+Round: 25 Pi: 3.130560 
+I am rank 0 on round 26 and I think pi is 3.130560 
+Round: 26 Pi: 3.136308 
+I am rank 0 on round 27 and I think pi is 3.136308 
+Round: 27 Pi: 3.137481 
+I am rank 0 on round 28 and I think pi is 3.137481 
+Round: 28 Pi: 3.137857 
+I am rank 0 on round 29 and I think pi is 3.137857 
+Round: 29 Pi: 3.134621 
+I am rank 0 on round 30 and I think pi is 3.134621 
+Round: 30 Pi: 3.139067 
+I am rank 0 on round 31 and I think pi is 3.139067 
+Round: 31 Pi: 3.142065 
+I am rank 0 on round 32 and I think pi is 3.142065 
+Round: 32 Pi: 3.142125 
+I am rank 0 on round 33 and I think pi is 3.142125 
+Round: 33 Pi: 3.139515 
+I am rank 0 on round 34 and I think pi is 3.139515 
+Round: 34 Pi: 3.142471 
+I am rank 0 on round 35 and I think pi is 3.142471 
+Round: 35 Pi: 3.142857 
+I am rank 0 on round 36 and I think pi is 3.142857 
+Round: 36 Pi: 3.145778 
+I am rank 0 on round 37 and I think pi is 3.145778 
+Round: 37 Pi: 3.144757 
+I am rank 0 on round 38 and I think pi is 3.144757 
+Round: 38 Pi: 3.146210 
+I am rank 1 on round 1 and I think pi is -nan 
+Round: 1 Pi: 3.068000 
+I am rank 1 on round 2 and I think pi is 3.068000 
+Round: 2 Pi: 3.090000 
+I am rank 1 on round 3 and I think pi is 3.090000 
+Round: 3 Pi: 3.104000 
+I am rank 1 on round 4 and I think pi is 3.104000 
+Round: 4 Pi: 3.106000 
+I am rank 1 on round 5 and I think pi is 3.106000 
+Round: 5 Pi: 3.122400 
+I am rank 1 on round 6 and I think pi is 3.122400 
+Round: 6 Pi: 3.140000 
+I am rank 1 on round 7 and I think pi is 3.140000 
+Round: 7 Pi: 3.137143 
+I am rank 1 on round 8 and I think pi is 3.137143 
+Round: 8 Pi: 3.122500 
+I am rank 1 on round 9 and I think pi is 3.122500 
+Round: 9 Pi: 3.119555 
+I am rank 1 on round 10 and I think pi is 3.119555 
+Round: 10 Pi: 3.124800 
+I am rank 1 on round 11 and I think pi is 3.124800 
+Round: 11 Pi: 3.129091 
+I am rank 1 on round 12 and I think pi is 3.129091 
+Round: 12 Pi: 3.124667 
+I am rank 1 on round 13 and I think pi is 3.124667 
+Round: 13 Pi: 3.125231 
+I am rank 1 on round 14 and I think pi is 3.125231 
+Round: 14 Pi: 3.119714 
+I am rank 1 on round 15 and I think pi is 3.119714 
+Round: 15 Pi: 3.118133 
+I am rank 1 on round 16 and I think pi is 3.118133 
+Round: 16 Pi: 3.122750 
+I am rank 1 on round 17 and I think pi is 3.122750 
+Round: 17 Pi: 3.122353 
+I am rank 1 on round 18 and I think pi is 3.122353 
+Round: 18 Pi: 3.122000 
+I am rank 1 on round 19 and I think pi is 3.122000 
+Round: 19 Pi: 3.125263 
+I am rank 1 on round 20 and I think pi is 3.125263 
+Round: 20 Pi: 3.128000 
+I am rank 1 on round 21 and I think pi is 3.128000 
+Round: 21 Pi: 3.126667 
+I am rank 1 on round 22 and I think pi is 3.126667 
+Round: 22 Pi: 3.128000 
+I am rank 1 on round 23 and I think pi is 3.128000 
+Round: 23 Pi: 3.131478 
+I am rank 1 on round 24 and I think pi is 3.131478 
+Round: 24 Pi: 3.132000 
+I am rank 1 on round 25 and I think pi is 3.132000 
+Round: 25 Pi: 3.130560 
+I am rank 1 on round 26 and I think pi is 3.130560 
+Round: 26 Pi: 3.136308 
+I am rank 1 on round 27 and I think pi is 3.136308 
+Round: 27 Pi: 3.137481 
+I am rank 1 on round 28 and I think pi is 3.137481 
+Round: 28 Pi: 3.137857 
+I am rank 1 on round 29 and I think pi is 3.137857 
+Round: 29 Pi: 3.134621 
+I am rank 1 on round 30 and I think pi is 3.134621 
+Round: 30 Pi: 3.139067 
+I am rank 1 on round 31 and I think pi is 3.139067 
+Round: 31 Pi: 3.142065 
+I am rank 1 on round 32 and I think pi is 3.142065 
+Round: 32 Pi: 3.142125 
+I am rank 1 on round 33 and I think pi is 3.142125 
+Round: 33 Pi: 3.139515 
+I am rank 1 on round 34 and I think pi is 3.139515 
+Round: 34 Pi: 3.142471 
+I am rank 1 on round 35 and I think pi is 3.142471 
+Round: 35 Pi: 3.142857 
+I am rank 1 on round 36 and I think pi is 3.142857 
+Round: 36 Pi: 3.145778 
+I am rank 1 on round 37 and I think pi is 3.145778 
+Round: 37 Pi: 3.144757 
+I am rank 1 on round 38 and I think pi is 3.144757 
+Round: 38 Pi: 3.146210 
+I am rank 2 on round 1 and I think pi is -nan 
+Round: 1 Pi: 3.068000 
+I am rank 2 on round 2 and I think pi is 3.068000 
+Round: 2 Pi: 3.090000 
+I am rank 2 on round 3 and I think pi is 3.090000 
+Round: 3 Pi: 3.104000 
+I am rank 2 on round 4 and I think pi is 3.104000 
+Round: 4 Pi: 3.106000 
+I am rank 2 on round 5 and I think pi is 3.106000 
+Round: 5 Pi: 3.122400 
+I am rank 2 on round 6 and I think pi is 3.122400 
+Round: 6 Pi: 3.140000 
+I am rank 2 on round 7 and I think pi is 3.140000 
+Round: 7 Pi: 3.137143 
+I am rank 2 on round 8 and I think pi is 3.137143 
+Round: 8 Pi: 3.122500 
+I am rank 2 on round 9 and I think pi is 3.122500 
+Round: 9 Pi: 3.119555 
+I am rank 2 on round 10 and I think pi is 3.119555 
+Round: 10 Pi: 3.124800 
+I am rank 2 on round 11 and I think pi is 3.124800 
+Round: 11 Pi: 3.129091 
+I am rank 2 on round 12 and I think pi is 3.129091 
+Round: 12 Pi: 3.124667 
+I am rank 2 on round 13 and I think pi is 3.124667 
+Round: 13 Pi: 3.125231 
+I am rank 2 on round 14 and I think pi is 3.125231 
+Round: 14 Pi: 3.119714 
+I am rank 2 on round 15 and I think pi is 3.119714 
+Round: 15 Pi: 3.118133 
+I am rank 2 on round 16 and I think pi is 3.118133 
+Round: 16 Pi: 3.122750 
+I am rank 2 on round 17 and I think pi is 3.122750 
+Round: 17 Pi: 3.122353 
+I am rank 2 on round 18 and I think pi is 3.122353 
+Round: 18 Pi: 3.122000 
+I am rank 2 on round 19 and I think pi is 3.122000 
+Round: 19 Pi: 3.125263 
+I am rank 2 on round 20 and I think pi is 3.125263 
+Round: 20 Pi: 3.128000 
+I am rank 2 on round 21 and I think pi is 3.128000 
+Round: 21 Pi: 3.126667 
+I am rank 2 on round 22 and I think pi is 3.126667 
+Round: 22 Pi: 3.128000 
+I am rank 2 on round 23 and I think pi is 3.128000 
+Round: 23 Pi: 3.131478 
+I am rank 2 on round 24 and I think pi is 3.131478 
+Round: 24 Pi: 3.132000 
+I am rank 2 on round 25 and I think pi is 3.132000 
+Round: 25 Pi: 3.130560 
+I am rank 2 on round 26 and I think pi is 3.130560 
+Round: 26 Pi: 3.136308 
+I am rank 2 on round 27 and I think pi is 3.136308 
+Round: 27 Pi: 3.137481 
+I am rank 2 on round 28 and I think pi is 3.137481 
+Round: 28 Pi: 3.137857 
+I am rank 2 on round 29 and I think pi is 3.137857 
+Round: 29 Pi: 3.134621 
+I am rank 2 on round 30 and I think pi is 3.134621 
+Round: 30 Pi: 3.139067 
+I am rank 2 on round 31 and I think pi is 3.139067 
+Round: 31 Pi: 3.142065 
+I am rank 2 on round 32 and I think pi is 3.142065 
+Round: 32 Pi: 3.142125 
+I am rank 2 on round 33 and I think pi is 3.142125 
+Round: 33 Pi: 3.139515 
+I am rank 2 on round 34 and I think pi is 3.139515 
+Round: 34 Pi: 3.142471 
+I am rank 2 on round 35 and I think pi is 3.142471 
+Round: 35 Pi: 3.142857 
+I am rank 2 on round 36 and I think pi is 3.142857 
+Round: 36 Pi: 3.145778 
+I am rank 2 on round 37 and I think pi is 3.145778 
+Round: 37 Pi: 3.144757 
+I am rank 2 on round 38 and I think pi is 3.144757 
+Round: 38 Pi: 3.146210 
+I am rank 3 on round 39 and I think pi is 3.146210 
+I am rank 5 on round 39 and I think pi is 3.146210 
+I am rank 6 on round 39 and I think pi is 3.146210 
+I am rank 2 on round 39 and I think pi is 3.146210 
+I am rank 7 on round 39 and I think pi is 3.146210 
+I am rank 0 on round 39 and I think pi is 3.146210 
+I am rank 1 on round 39 and I think pi is 3.146210 
+Round: 39 Pi: 3.146461 
+I am rank 2 on round 40 and I think pi is 3.146461 
+Round: 40 Pi: 3.146000 
+I am rank 2 on round 41 and I think pi is 3.146000 
+Round: 41 Pi: 3.143219 
+I am rank 2 on round 42 and I think pi is 3.143219 
+Round: 42 Pi: 3.143714 
+I am rank 2 on round 43 and I think pi is 3.143714 
+Round: 43 Pi: 3.143256 
+I am rank 2 on round 44 and I think pi is 3.143256 
+Round: 44 Pi: 3.143636 
+I am rank 2 on round 45 and I think pi is 3.143636 
+Round: 45 Pi: 3.144356 
+I am rank 2 on round 46 and I think pi is 3.144356 
+Round: 46 Pi: 3.143913 
+I am rank 2 on round 47 and I think pi is 3.143913 
+Round: 47 Pi: 3.143830 
+I am rank 2 on round 48 and I think pi is 3.143830 
+Round: 48 Pi: 3.144250 
+I am rank 2 on round 49 and I think pi is 3.144250 
+Round: 49 Pi: 3.143347 
+I am rank 2 on round 50 and I think pi is 3.143347 
+Round: 50 Pi: 3.143840 
+I am rank 2 on round 51 and I think pi is 3.143840 
+Round: 51 Pi: 3.144784 
+I am rank 2 on round 52 and I think pi is 3.144784 
+Round: 52 Pi: 3.144385 
+I am rank 2 on round 53 and I think pi is 3.144385 
+Round: 53 Pi: 3.145585 
+I am rank 2 on round 54 and I think pi is 3.145585 
+Round: 54 Pi: 3.145111 
+I am rank 2 on round 55 and I think pi is 3.145111 
+Round: 55 Pi: 3.146109 
+I am rank 2 on round 56 and I think pi is 3.146109 
+Round: 56 Pi: 3.146571 
+I am rank 2 on round 57 and I think pi is 3.146571 
+Round: 57 Pi: 3.145895 
+I am rank 2 on round 58 and I think pi is 3.145895 
+Round: 58 Pi: 3.146207 
+I am rank 2 on round 59 and I think pi is 3.146207 
+Round: 59 Pi: 3.147119 
+I am rank 2 on round 60 and I think pi is 3.147119 
+Round: 60 Pi: 3.145933 
+I am rank 2 on round 61 and I think pi is 3.145933 
+Round: 61 Pi: 3.147344 
+I am rank 2 on round 62 and I think pi is 3.147344 
+Round: 62 Pi: 3.147161 
+I am rank 2 on round 63 and I think pi is 3.147161 
+Round: 63 Pi: 3.147365 
+I am rank 2 on round 64 and I think pi is 3.147365 
+Round: 64 Pi: 3.147125 
+I am rank 2 on round 65 and I think pi is 3.147125 
+Round: 65 Pi: 3.146461 
+I am rank 2 on round 66 and I think pi is 3.146461 
+Round: 66 Pi: 3.146061 
+I am rank 2 on round 67 and I think pi is 3.146061 
+Round: 67 Pi: 3.146627 
+I am rank 2 on round 68 and I think pi is 3.146627 
+Round: 68 Pi: 3.146647 
+Round: 39 Pi: 3.146461 
+I am rank 7 on round 40 and I think pi is 3.146461 
+Round: 40 Pi: 3.146000 
+I am rank 7 on round 41 and I think pi is 3.146000 
+Round: 41 Pi: 3.143219 
+I am rank 7 on round 42 and I think pi is 3.143219 
+Round: 42 Pi: 3.143714 
+I am rank 7 on round 43 and I think pi is 3.143714 
+Round: 43 Pi: 3.143256 
+I am rank 7 on round 44 and I think pi is 3.143256 
+Round: 44 Pi: 3.143636 
+I am rank 7 on round 45 and I think pi is 3.143636 
+Round: 45 Pi: 3.144356 
+I am rank 7 on round 46 and I think pi is 3.144356 
+Round: 46 Pi: 3.143913 
+I am rank 7 on round 47 and I think pi is 3.143913 
+Round: 47 Pi: 3.143830 
+I am rank 7 on round 48 and I think pi is 3.143830 
+Round: 48 Pi: 3.144250 
+I am rank 7 on round 49 and I think pi is 3.144250 
+Round: 49 Pi: 3.143347 
+I am rank 7 on round 50 and I think pi is 3.143347 
+Round: 50 Pi: 3.143840 
+I am rank 7 on round 51 and I think pi is 3.143840 
+Round: 51 Pi: 3.144784 
+I am rank 7 on round 52 and I think pi is 3.144784 
+Round: 52 Pi: 3.144385 
+I am rank 7 on round 53 and I think pi is 3.144385 
+Round: 53 Pi: 3.145585 
+I am rank 7 on round 54 and I think pi is 3.145585 
+Round: 54 Pi: 3.145111 
+I am rank 7 on round 55 and I think pi is 3.145111 
+Round: 55 Pi: 3.146109 
+I am rank 7 on round 56 and I think pi is 3.146109 
+Round: 56 Pi: 3.146571 
+I am rank 7 on round 57 and I think pi is 3.146571 
+Round: 57 Pi: 3.145895 
+I am rank 7 on round 58 and I think pi is 3.145895 
+Round: 58 Pi: 3.146207 
+I am rank 7 on round 59 and I think pi is 3.146207 
+Round: 59 Pi: 3.147119 
+I am rank 7 on round 60 and I think pi is 3.147119 
+Round: 60 Pi: 3.145933 
+I am rank 7 on round 61 and I think pi is 3.145933 
+Round: 61 Pi: 3.147344 
+I am rank 7 on round 62 and I think pi is 3.147344 
+Round: 62 Pi: 3.147161 
+I am rank 7 on round 63 and I think pi is 3.147161 
+Round: 63 Pi: 3.147365 
+I am rank 7 on round 64 and I think pi is 3.147365 
+Round: 64 Pi: 3.147125 
+I am rank 7 on round 65 and I think pi is 3.147125 
+Round: 65 Pi: 3.146461 
+I am rank 7 on round 66 and I think pi is 3.146461 
+Round: 66 Pi: 3.146061 
+I am rank 7 on round 67 and I think pi is 3.146061 
+Round: 67 Pi: 3.146627 
+I am rank 7 on round 68 and I think pi is 3.146627 
+Round: 68 Pi: 3.146647 
+Round: 39 Pi: 3.146461 
+I am rank 0 on round 40 and I think pi is 3.146461 
+Round: 40 Pi: 3.146000 
+I am rank 0 on round 41 and I think pi is 3.146000 
+Round: 41 Pi: 3.143219 
+I am rank 0 on round 42 and I think pi is 3.143219 
+Round: 42 Pi: 3.143714 
+I am rank 0 on round 43 and I think pi is 3.143714 
+Round: 43 Pi: 3.143256 
+I am rank 0 on round 44 and I think pi is 3.143256 
+Round: 44 Pi: 3.143636 
+I am rank 0 on round 45 and I think pi is 3.143636 
+Round: 45 Pi: 3.144356 
+I am rank 0 on round 46 and I think pi is 3.144356 
+Round: 46 Pi: 3.143913 
+I am rank 0 on round 47 and I think pi is 3.143913 
+Round: 47 Pi: 3.143830 
+I am rank 0 on round 48 and I think pi is 3.143830 
+Round: 48 Pi: 3.144250 
+I am rank 0 on round 49 and I think pi is 3.144250 
+Round: 49 Pi: 3.143347 
+I am rank 0 on round 50 and I think pi is 3.143347 
+Round: 50 Pi: 3.143840 
+I am rank 0 on round 51 and I think pi is 3.143840 
+Round: 51 Pi: 3.144784 
+I am rank 0 on round 52 and I think pi is 3.144784 
+Round: 52 Pi: 3.144385 
+I am rank 0 on round 53 and I think pi is 3.144385 
+Round: 53 Pi: 3.145585 
+I am rank 0 on round 54 and I think pi is 3.145585 
+Round: 54 Pi: 3.145111 
+I am rank 0 on round 55 and I think pi is 3.145111 
+Round: 55 Pi: 3.146109 
+I am rank 0 on round 56 and I think pi is 3.146109 
+Round: 56 Pi: 3.146571 
+I am rank 0 on round 57 and I think pi is 3.146571 
+Round: 57 Pi: 3.145895 
+I am rank 0 on round 58 and I think pi is 3.145895 
+Round: 58 Pi: 3.146207 
+I am rank 0 on round 59 and I think pi is 3.146207 
+Round: 59 Pi: 3.147119 
+I am rank 0 on round 60 and I think pi is 3.147119 
+Round: 60 Pi: 3.145933 
+I am rank 0 on round 61 and I think pi is 3.145933 
+Round: 61 Pi: 3.147344 
+I am rank 0 on round 62 and I think pi is 3.147344 
+Round: 62 Pi: 3.147161 
+I am rank 0 on round 63 and I think pi is 3.147161 
+Round: 63 Pi: 3.147365 
+I am rank 0 on round 64 and I think pi is 3.147365 
+Round: 64 Pi: 3.147125 
+I am rank 0 on round 65 and I think pi is 3.147125 
+Round: 65 Pi: 3.146461 
+I am rank 0 on round 66 and I think pi is 3.146461 
+Round: 66 Pi: 3.146061 
+I am rank 0 on round 67 and I think pi is 3.146061 
+Round: 67 Pi: 3.146627 
+I am rank 0 on round 68 and I think pi is 3.146627 
+Round: 68 Pi: 3.146647 
+Round: 39 Pi: 3.146461 
+I am rank 6 on round 40 and I think pi is 3.146461 
+Round: 40 Pi: 3.146000 
+I am rank 6 on round 41 and I think pi is 3.146000 
+Round: 41 Pi: 3.143219 
+I am rank 6 on round 42 and I think pi is 3.143219 
+Round: 42 Pi: 3.143714 
+I am rank 6 on round 43 and I think pi is 3.143714 
+Round: 43 Pi: 3.143256 
+I am rank 6 on round 44 and I think pi is 3.143256 
+Round: 44 Pi: 3.143636 
+I am rank 6 on round 45 and I think pi is 3.143636 
+Round: 45 Pi: 3.144356 
+I am rank 6 on round 46 and I think pi is 3.144356 
+Round: 46 Pi: 3.143913 
+I am rank 6 on round 47 and I think pi is 3.143913 
+Round: 47 Pi: 3.143830 
+I am rank 6 on round 48 and I think pi is 3.143830 
+Round: 48 Pi: 3.144250 
+I am rank 6 on round 49 and I think pi is 3.144250 
+Round: 49 Pi: 3.143347 
+I am rank 6 on round 50 and I think pi is 3.143347 
+Round: 50 Pi: 3.143840 
+I am rank 6 on round 51 and I think pi is 3.143840 
+Round: 51 Pi: 3.144784 
+I am rank 6 on round 52 and I think pi is 3.144784 
+Round: 52 Pi: 3.144385 
+I am rank 6 on round 53 and I think pi is 3.144385 
+Round: 53 Pi: 3.145585 
+I am rank 6 on round 54 and I think pi is 3.145585 
+Round: 54 Pi: 3.145111 
+I am rank 6 on round 55 and I think pi is 3.145111 
+Round: 55 Pi: 3.146109 
+I am rank 6 on round 56 and I think pi is 3.146109 
+Round: 56 Pi: 3.146571 
+I am rank 6 on round 57 and I think pi is 3.146571 
+Round: 57 Pi: 3.145895 
+I am rank 6 on round 58 and I think pi is 3.145895 
+Round: 58 Pi: 3.146207 
+I am rank 6 on round 59 and I think pi is 3.146207 
+Round: 59 Pi: 3.147119 
+I am rank 6 on round 60 and I think pi is 3.147119 
+Round: 60 Pi: 3.145933 
+I am rank 6 on round 61 and I think pi is 3.145933 
+Round: 61 Pi: 3.147344 
+I am rank 6 on round 62 and I think pi is 3.147344 
+Round: 62 Pi: 3.147161 
+I am rank 6 on round 63 and I think pi is 3.147161 
+Round: 63 Pi: 3.147365 
+I am rank 6 on round 64 and I think pi is 3.147365 
+Round: 64 Pi: 3.147125 
+I am rank 6 on round 65 and I think pi is 3.147125 
+Round: 65 Pi: 3.146461 
+I am rank 6 on round 66 and I think pi is 3.146461 
+Round: 66 Pi: 3.146061 
+I am rank 6 on round 67 and I think pi is 3.146061 
+Round: 67 Pi: 3.146627 
+I am rank 6 on round 68 and I think pi is 3.146627 
+Round: 68 Pi: 3.146647 
+I am rank 4 on round 39 and I think pi is 3.146210 
+Round: 39 Pi: 3.146461 
+I am rank 4 on round 40 and I think pi is 3.146461 
+Round: 40 Pi: 3.146000 
+I am rank 4 on round 41 and I think pi is 3.146000 
+Round: 41 Pi: 3.143219 
+I am rank 4 on round 42 and I think pi is 3.143219 
+Round: 42 Pi: 3.143714 
+I am rank 4 on round 43 and I think pi is 3.143714 
+Round: 43 Pi: 3.143256 
+I am rank 4 on round 44 and I think pi is 3.143256 
+Round: 44 Pi: 3.143636 
+I am rank 4 on round 45 and I think pi is 3.143636 
+Round: 45 Pi: 3.144356 
+I am rank 4 on round 46 and I think pi is 3.144356 
+Round: 46 Pi: 3.143913 
+I am rank 4 on round 47 and I think pi is 3.143913 
+Round: 47 Pi: 3.143830 
+I am rank 4 on round 48 and I think pi is 3.143830 
+Round: 48 Pi: 3.144250 
+I am rank 4 on round 49 and I think pi is 3.144250 
+Round: 49 Pi: 3.143347 
+I am rank 4 on round 50 and I think pi is 3.143347 
+Round: 50 Pi: 3.143840 
+I am rank 4 on round 51 and I think pi is 3.143840 
+Round: 51 Pi: 3.144784 
+I am rank 4 on round 52 and I think pi is 3.144784 
+Round: 52 Pi: 3.144385 
+I am rank 4 on round 53 and I think pi is 3.144385 
+Round: 53 Pi: 3.145585 
+I am rank 4 on round 54 and I think pi is 3.145585 
+Round: 54 Pi: 3.145111 
+I am rank 4 on round 55 and I think pi is 3.145111 
+Round: 55 Pi: 3.146109 
+I am rank 4 on round 56 and I think pi is 3.146109 
+Round: 56 Pi: 3.146571 
+I am rank 4 on round 57 and I think pi is 3.146571 
+Round: 57 Pi: 3.145895 
+I am rank 4 on round 58 and I think pi is 3.145895 
+Round: 58 Pi: 3.146207 
+I am rank 4 on round 59 and I think pi is 3.146207 
+Round: 59 Pi: 3.147119 
+I am rank 4 on round 60 and I think pi is 3.147119 
+Round: 60 Pi: 3.145933 
+I am rank 4 on round 61 and I think pi is 3.145933 
+Round: 61 Pi: 3.147344 
+I am rank 4 on round 62 and I think pi is 3.147344 
+Round: 62 Pi: 3.147161 
+I am rank 4 on round 63 and I think pi is 3.147161 
+Round: 63 Pi: 3.147365 
+I am rank 4 on round 64 and I think pi is 3.147365 
+Round: 64 Pi: 3.147125 
+I am rank 4 on round 65 and I think pi is 3.147125 
+Round: 65 Pi: 3.146461 
+I am rank 4 on round 66 and I think pi is 3.146461 
+Round: 66 Pi: 3.146061 
+I am rank 4 on round 67 and I think pi is 3.146061 
+Round: 67 Pi: 3.146627 
+I am rank 4 on round 68 and I think pi is 3.146627 
+Round: 68 Pi: 3.146647 
+Round: 39 Pi: 3.146461 
+I am rank 3 on round 40 and I think pi is 3.146461 
+Round: 40 Pi: 3.146000 
+I am rank 3 on round 41 and I think pi is 3.146000 
+Round: 41 Pi: 3.143219 
+I am rank 3 on round 42 and I think pi is 3.143219 
+Round: 42 Pi: 3.143714 
+I am rank 3 on round 43 and I think pi is 3.143714 
+Round: 43 Pi: 3.143256 
+I am rank 3 on round 44 and I think pi is 3.143256 
+Round: 44 Pi: 3.143636 
+I am rank 3 on round 45 and I think pi is 3.143636 
+Round: 45 Pi: 3.144356 
+I am rank 3 on round 46 and I think pi is 3.144356 
+Round: 46 Pi: 3.143913 
+I am rank 3 on round 47 and I think pi is 3.143913 
+Round: 47 Pi: 3.143830 
+I am rank 3 on round 48 and I think pi is 3.143830 
+Round: 48 Pi: 3.144250 
+I am rank 3 on round 49 and I think pi is 3.144250 
+Round: 49 Pi: 3.143347 
+I am rank 3 on round 50 and I think pi is 3.143347 
+Round: 50 Pi: 3.143840 
+I am rank 3 on round 51 and I think pi is 3.143840 
+Round: 51 Pi: 3.144784 
+I am rank 3 on round 52 and I think pi is 3.144784 
+Round: 52 Pi: 3.144385 
+I am rank 3 on round 53 and I think pi is 3.144385 
+Round: 53 Pi: 3.145585 
+I am rank 3 on round 54 and I think pi is 3.145585 
+Round: 54 Pi: 3.145111 
+I am rank 3 on round 55 and I think pi is 3.145111 
+Round: 55 Pi: 3.146109 
+I am rank 3 on round 56 and I think pi is 3.146109 
+Round: 56 Pi: 3.146571 
+I am rank 3 on round 57 and I think pi is 3.146571 
+Round: 57 Pi: 3.145895 
+I am rank 3 on round 58 and I think pi is 3.145895 
+Round: 58 Pi: 3.146207 
+I am rank 3 on round 59 and I think pi is 3.146207 
+Round: 59 Pi: 3.147119 
+I am rank 3 on round 60 and I think pi is 3.147119 
+Round: 60 Pi: 3.145933 
+I am rank 3 on round 61 and I think pi is 3.145933 
+Round: 61 Pi: 3.147344 
+I am rank 3 on round 62 and I think pi is 3.147344 
+Round: 62 Pi: 3.147161 
+I am rank 3 on round 63 and I think pi is 3.147161 
+Round: 63 Pi: 3.147365 
+I am rank 3 on round 64 and I think pi is 3.147365 
+Round: 64 Pi: 3.147125 
+I am rank 3 on round 65 and I think pi is 3.147125 
+Round: 65 Pi: 3.146461 
+I am rank 3 on round 66 and I think pi is 3.146461 
+Round: 66 Pi: 3.146061 
+I am rank 3 on round 67 and I think pi is 3.146061 
+Round: 67 Pi: 3.146627 
+I am rank 3 on round 68 and I think pi is 3.146627 
+Round: 68 Pi: 3.146647 
+Round: 39 Pi: 3.146461 
+I am rank 5 on round 40 and I think pi is 3.146461 
+Round: 40 Pi: 3.146000 
+I am rank 5 on round 41 and I think pi is 3.146000 
+Round: 41 Pi: 3.143219 
+I am rank 5 on round 42 and I think pi is 3.143219 
+Round: 42 Pi: 3.143714 
+I am rank 5 on round 43 and I think pi is 3.143714 
+Round: 43 Pi: 3.143256 
+I am rank 5 on round 44 and I think pi is 3.143256 
+Round: 44 Pi: 3.143636 
+I am rank 5 on round 45 and I think pi is 3.143636 
+Round: 45 Pi: 3.144356 
+I am rank 5 on round 46 and I think pi is 3.144356 
+Round: 46 Pi: 3.143913 
+I am rank 5 on round 47 and I think pi is 3.143913 
+Round: 47 Pi: 3.143830 
+I am rank 5 on round 48 and I think pi is 3.143830 
+Round: 48 Pi: 3.144250 
+I am rank 5 on round 49 and I think pi is 3.144250 
+Round: 49 Pi: 3.143347 
+I am rank 5 on round 50 and I think pi is 3.143347 
+Round: 50 Pi: 3.143840 
+I am rank 5 on round 51 and I think pi is 3.143840 
+Round: 51 Pi: 3.144784 
+I am rank 5 on round 52 and I think pi is 3.144784 
+Round: 52 Pi: 3.144385 
+I am rank 5 on round 53 and I think pi is 3.144385 
+Round: 53 Pi: 3.145585 
+I am rank 5 on round 54 and I think pi is 3.145585 
+Round: 54 Pi: 3.145111 
+I am rank 5 on round 55 and I think pi is 3.145111 
+Round: 55 Pi: 3.146109 
+I am rank 5 on round 56 and I think pi is 3.146109 
+Round: 56 Pi: 3.146571 
+I am rank 5 on round 57 and I think pi is 3.146571 
+Round: 57 Pi: 3.145895 
+I am rank 5 on round 58 and I think pi is 3.145895 
+Round: 58 Pi: 3.146207 
+I am rank 5 on round 59 and I think pi is 3.146207 
+Round: 59 Pi: 3.147119 
+I am rank 5 on round 60 and I think pi is 3.147119 
+Round: 60 Pi: 3.145933 
+I am rank 5 on round 61 and I think pi is 3.145933 
+Round: 61 Pi: 3.147344 
+I am rank 5 on round 62 and I think pi is 3.147344 
+Round: 62 Pi: 3.147161 
+I am rank 5 on round 63 and I think pi is 3.147161 
+Round: 63 Pi: 3.147365 
+I am rank 5 on round 64 and I think pi is 3.147365 
+Round: 64 Pi: 3.147125 
+I am rank 5 on round 65 and I think pi is 3.147125 
+Round: 65 Pi: 3.146461 
+I am rank 5 on round 66 and I think pi is 3.146461 
+Round: 66 Pi: 3.146061 
+I am rank 5 on round 67 and I think pi is 3.146061 
+Round: 67 Pi: 3.146627 
+I am rank 5 on round 68 and I think pi is 3.146627 
+Round: 68 Pi: 3.146647 
+Round: 39 Pi: 3.146461 
+I am rank 1 on round 40 and I think pi is 3.146461 
+Round: 40 Pi: 3.146000 
+I am rank 1 on round 41 and I think pi is 3.146000 
+Round: 41 Pi: 3.143219 
+I am rank 1 on round 42 and I think pi is 3.143219 
+Round: 42 Pi: 3.143714 
+I am rank 1 on round 43 and I think pi is 3.143714 
+Round: 43 Pi: 3.143256 
+I am rank 1 on round 44 and I think pi is 3.143256 
+Round: 44 Pi: 3.143636 
+I am rank 1 on round 45 and I think pi is 3.143636 
+Round: 45 Pi: 3.144356 
+I am rank 1 on round 46 and I think pi is 3.144356 
+Round: 46 Pi: 3.143913 
+I am rank 1 on round 47 and I think pi is 3.143913 
+Round: 47 Pi: 3.143830 
+I am rank 1 on round 48 and I think pi is 3.143830 
+Round: 48 Pi: 3.144250 
+I am rank 1 on round 49 and I think pi is 3.144250 
+Round: 49 Pi: 3.143347 
+I am rank 1 on round 50 and I think pi is 3.143347 
+Round: 50 Pi: 3.143840 
+I am rank 1 on round 51 and I think pi is 3.143840 
+Round: 51 Pi: 3.144784 
+I am rank 1 on round 52 and I think pi is 3.144784 
+Round: 52 Pi: 3.144385 
+I am rank 1 on round 53 and I think pi is 3.144385 
+Round: 53 Pi: 3.145585 
+I am rank 1 on round 54 and I think pi is 3.145585 
+Round: 54 Pi: 3.145111 
+I am rank 1 on round 55 and I think pi is 3.145111 
+Round: 55 Pi: 3.146109 
+I am rank 1 on round 56 and I think pi is 3.146109 
+Round: 56 Pi: 3.146571 
+I am rank 1 on round 57 and I think pi is 3.146571 
+Round: 57 Pi: 3.145895 
+I am rank 1 on round 58 and I think pi is 3.145895 
+Round: 58 Pi: 3.146207 
+I am rank 1 on round 59 and I think pi is 3.146207 
+Round: 59 Pi: 3.147119 
+I am rank 1 on round 60 and I think pi is 3.147119 
+Round: 60 Pi: 3.145933 
+I am rank 1 on round 61 and I think pi is 3.145933 
+Round: 61 Pi: 3.147344 
+I am rank 1 on round 62 and I think pi is 3.147344 
+Round: 62 Pi: 3.147161 
+I am rank 1 on round 63 and I think pi is 3.147161 
+Round: 63 Pi: 3.147365 
+I am rank 1 on round 64 and I think pi is 3.147365 
+Round: 64 Pi: 3.147125 
+I am rank 1 on round 65 and I think pi is 3.147125 
+Round: 65 Pi: 3.146461 
+I am rank 1 on round 66 and I think pi is 3.146461 
+Round: 66 Pi: 3.146061 
+I am rank 1 on round 67 and I think pi is 3.146061 
+Round: 67 Pi: 3.146627 
+I am rank 1 on round 68 and I think pi is 3.146627 
+Round: 68 Pi: 3.146647 
+I am rank 5 on round 69 and I think pi is 3.146647 
+Round: 69 Pi: 3.145275 
+I am rank 5 on round 70 and I think pi is 3.145275 
+Round: 70 Pi: 3.145600 
+I am rank 5 on round 71 and I think pi is 3.145600 
+Round: 71 Pi: 3.146366 
+I am rank 5 on round 72 and I think pi is 3.146366 
+Round: 72 Pi: 3.146167 
+I am rank 5 on round 73 and I think pi is 3.146167 
+Round: 73 Pi: 3.146630 
+I am rank 5 on round 74 and I think pi is 3.146630 
+Round: 74 Pi: 3.147243 
+I am rank 5 on round 75 and I think pi is 3.147243 
+Round: 75 Pi: 3.146080 
+I am rank 5 on round 76 and I think pi is 3.146080 
+Round: 76 Pi: 3.145895 
+I am rank 5 on round 77 and I think pi is 3.145895 
+Round: 77 Pi: 3.145091 
+I am rank 5 on round 78 and I think pi is 3.145091 
+Round: 78 Pi: 3.145231 
+I am rank 5 on round 79 and I think pi is 3.145231 
+Round: 79 Pi: 3.145519 
+I am rank 5 on round 80 and I think pi is 3.145519 
+Round: 80 Pi: 3.146000 
+I am rank 5 on round 81 and I think pi is 3.146000 
+Round: 81 Pi: 3.146173 
+I am rank 5 on round 82 and I think pi is 3.146173 
+Round: 82 Pi: 3.146146 
+I am rank 5 on round 83 and I think pi is 3.146146 
+Round: 83 Pi: 3.147133 
+I am rank 5 on round 84 and I think pi is 3.147133 
+Round: 84 Pi: 3.146905 
+I am rank 5 on round 85 and I think pi is 3.146905 
+Round: 85 Pi: 3.145882 
+I am rank 5 on round 86 and I think pi is 3.145882 
+Round: 86 Pi: 3.146279 
+I am rank 5 on round 87 and I think pi is 3.146279 
+Round: 87 Pi: 3.147264 
+I am rank 5 on round 88 and I think pi is 3.147264 
+Round: 88 Pi: 3.147954 
+I am rank 5 on round 89 and I think pi is 3.147954 
+Round: 89 Pi: 3.147730 
+I am rank 5 on round 90 and I think pi is 3.147730 
+Round: 90 Pi: 3.147867 
+I am rank 5 on round 91 and I think pi is 3.147867 
+Round: 91 Pi: 3.146506 
+I am rank 5 on round 92 and I think pi is 3.146506 
+Round: 92 Pi: 3.147043 
+I am rank 5 on round 93 and I think pi is 3.147043 
+Round: 93 Pi: 3.147355 
+I am rank 5 on round 94 and I think pi is 3.147355 
+Round: 94 Pi: 3.147532 
+I am rank 5 on round 95 and I think pi is 3.147532 
+Round: 95 Pi: 3.148295 
+I am rank 5 on round 96 and I think pi is 3.148295 
+Round: 96 Pi: 3.147375 
+I am rank 5 on round 97 and I think pi is 3.147375 
+Round: 97 Pi: 3.147340 
+I am rank 5 on round 98 and I think pi is 3.147340 
+Round: 98 Pi: 3.146531 
+I am rank 5 on round 99 and I think pi is 3.146531 
+Round: 99 Pi: 3.145657 
+I am rank 5 on round 100 and I think pi is 3.145657 
+Round: 100 Pi: 3.146000 
+time taken: 0.026357s 
+I am rank 2 on round 69 and I think pi is 3.146647 
+Round: 69 Pi: 3.145275 
+I am rank 2 on round 70 and I think pi is 3.145275 
+Round: 70 Pi: 3.145600 
+I am rank 2 on round 71 and I think pi is 3.145600 
+Round: 71 Pi: 3.146366 
+I am rank 2 on round 72 and I think pi is 3.146366 
+Round: 72 Pi: 3.146167 
+I am rank 2 on round 73 and I think pi is 3.146167 
+Round: 73 Pi: 3.146630 
+I am rank 2 on round 74 and I think pi is 3.146630 
+Round: 74 Pi: 3.147243 
+I am rank 2 on round 75 and I think pi is 3.147243 
+Round: 75 Pi: 3.146080 
+I am rank 2 on round 76 and I think pi is 3.146080 
+Round: 76 Pi: 3.145895 
+I am rank 2 on round 77 and I think pi is 3.145895 
+Round: 77 Pi: 3.145091 
+I am rank 2 on round 78 and I think pi is 3.145091 
+Round: 78 Pi: 3.145231 
+I am rank 2 on round 79 and I think pi is 3.145231 
+Round: 79 Pi: 3.145519 
+I am rank 2 on round 80 and I think pi is 3.145519 
+Round: 80 Pi: 3.146000 
+I am rank 2 on round 81 and I think pi is 3.146000 
+Round: 81 Pi: 3.146173 
+I am rank 2 on round 82 and I think pi is 3.146173 
+Round: 82 Pi: 3.146146 
+I am rank 2 on round 83 and I think pi is 3.146146 
+Round: 83 Pi: 3.147133 
+I am rank 2 on round 84 and I think pi is 3.147133 
+Round: 84 Pi: 3.146905 
+I am rank 2 on round 85 and I think pi is 3.146905 
+Round: 85 Pi: 3.145882 
+I am rank 2 on round 86 and I think pi is 3.145882 
+Round: 86 Pi: 3.146279 
+I am rank 2 on round 87 and I think pi is 3.146279 
+Round: 87 Pi: 3.147264 
+I am rank 2 on round 88 and I think pi is 3.147264 
+Round: 88 Pi: 3.147954 
+I am rank 2 on round 89 and I think pi is 3.147954 
+Round: 89 Pi: 3.147730 
+I am rank 2 on round 90 and I think pi is 3.147730 
+Round: 90 Pi: 3.147867 
+I am rank 2 on round 91 and I think pi is 3.147867 
+Round: 91 Pi: 3.146506 
+I am rank 2 on round 92 and I think pi is 3.146506 
+Round: 92 Pi: 3.147043 
+I am rank 2 on round 93 and I think pi is 3.147043 
+Round: 93 Pi: 3.147355 
+I am rank 2 on round 94 and I think pi is 3.147355 
+Round: 94 Pi: 3.147532 
+I am rank 2 on round 95 and I think pi is 3.147532 
+Round: 95 Pi: 3.148295 
+I am rank 2 on round 96 and I think pi is 3.148295 
+Round: 96 Pi: 3.147375 
+I am rank 2 on round 97 and I think pi is 3.147375 
+Round: 97 Pi: 3.147340 
+I am rank 2 on round 98 and I think pi is 3.147340 
+Round: 98 Pi: 3.146531 
+I am rank 2 on round 99 and I think pi is 3.146531 
+Round: 99 Pi: 3.145657 
+I am rank 2 on round 100 and I think pi is 3.145657 
+Round: 100 Pi: 3.146000 
+time taken: 0.026485s 
+I am rank 7 on round 69 and I think pi is 3.146647 
+Round: 69 Pi: 3.145275 
+I am rank 7 on round 70 and I think pi is 3.145275 
+Round: 70 Pi: 3.145600 
+I am rank 7 on round 71 and I think pi is 3.145600 
+Round: 71 Pi: 3.146366 
+I am rank 7 on round 72 and I think pi is 3.146366 
+Round: 72 Pi: 3.146167 
+I am rank 7 on round 73 and I think pi is 3.146167 
+Round: 73 Pi: 3.146630 
+I am rank 7 on round 74 and I think pi is 3.146630 
+Round: 74 Pi: 3.147243 
+I am rank 7 on round 75 and I think pi is 3.147243 
+Round: 75 Pi: 3.146080 
+I am rank 7 on round 76 and I think pi is 3.146080 
+Round: 76 Pi: 3.145895 
+I am rank 7 on round 77 and I think pi is 3.145895 
+Round: 77 Pi: 3.145091 
+I am rank 7 on round 78 and I think pi is 3.145091 
+Round: 78 Pi: 3.145231 
+I am rank 7 on round 79 and I think pi is 3.145231 
+Round: 79 Pi: 3.145519 
+I am rank 7 on round 80 and I think pi is 3.145519 
+Round: 80 Pi: 3.146000 
+I am rank 7 on round 81 and I think pi is 3.146000 
+Round: 81 Pi: 3.146173 
+I am rank 7 on round 82 and I think pi is 3.146173 
+Round: 82 Pi: 3.146146 
+I am rank 7 on round 83 and I think pi is 3.146146 
+Round: 83 Pi: 3.147133 
+I am rank 7 on round 84 and I think pi is 3.147133 
+Round: 84 Pi: 3.146905 
+I am rank 7 on round 85 and I think pi is 3.146905 
+Round: 85 Pi: 3.145882 
+I am rank 7 on round 86 and I think pi is 3.145882 
+Round: 86 Pi: 3.146279 
+I am rank 7 on round 87 and I think pi is 3.146279 
+Round: 87 Pi: 3.147264 
+I am rank 7 on round 88 and I think pi is 3.147264 
+Round: 88 Pi: 3.147954 
+I am rank 7 on round 89 and I think pi is 3.147954 
+Round: 89 Pi: 3.147730 
+I am rank 7 on round 90 and I think pi is 3.147730 
+Round: 90 Pi: 3.147867 
+I am rank 7 on round 91 and I think pi is 3.147867 
+Round: 91 Pi: 3.146506 
+I am rank 7 on round 92 and I think pi is 3.146506 
+Round: 92 Pi: 3.147043 
+I am rank 7 on round 93 and I think pi is 3.147043 
+Round: 93 Pi: 3.147355 
+I am rank 7 on round 94 and I think pi is 3.147355 
+Round: 94 Pi: 3.147532 
+I am rank 7 on round 95 and I think pi is 3.147532 
+Round: 95 Pi: 3.148295 
+I am rank 7 on round 96 and I think pi is 3.148295 
+Round: 96 Pi: 3.147375 
+I am rank 7 on round 97 and I think pi is 3.147375 
+Round: 97 Pi: 3.147340 
+I am rank 7 on round 98 and I think pi is 3.147340 
+Round: 98 Pi: 3.146531 
+I am rank 7 on round 99 and I think pi is 3.146531 
+Round: 99 Pi: 3.145657 
+I am rank 7 on round 100 and I think pi is 3.145657 
+Round: 100 Pi: 3.146000 
+time taken: 0.026336s 
+I am rank 0 on round 69 and I think pi is 3.146647 
+Round: 69 Pi: 3.145275 
+I am rank 0 on round 70 and I think pi is 3.145275 
+Round: 70 Pi: 3.145600 
+I am rank 0 on round 71 and I think pi is 3.145600 
+Round: 71 Pi: 3.146366 
+I am rank 0 on round 72 and I think pi is 3.146366 
+Round: 72 Pi: 3.146167 
+I am rank 0 on round 73 and I think pi is 3.146167 
+Round: 73 Pi: 3.146630 
+I am rank 0 on round 74 and I think pi is 3.146630 
+Round: 74 Pi: 3.147243 
+I am rank 0 on round 75 and I think pi is 3.147243 
+Round: 75 Pi: 3.146080 
+I am rank 0 on round 76 and I think pi is 3.146080 
+Round: 76 Pi: 3.145895 
+I am rank 0 on round 77 and I think pi is 3.145895 
+Round: 77 Pi: 3.145091 
+I am rank 0 on round 78 and I think pi is 3.145091 
+Round: 78 Pi: 3.145231 
+I am rank 0 on round 79 and I think pi is 3.145231 
+Round: 79 Pi: 3.145519 
+I am rank 0 on round 80 and I think pi is 3.145519 
+Round: 80 Pi: 3.146000 
+I am rank 0 on round 81 and I think pi is 3.146000 
+Round: 81 Pi: 3.146173 
+I am rank 0 on round 82 and I think pi is 3.146173 
+Round: 82 Pi: 3.146146 
+I am rank 0 on round 83 and I think pi is 3.146146 
+Round: 83 Pi: 3.147133 
+I am rank 0 on round 84 and I think pi is 3.147133 
+Round: 84 Pi: 3.146905 
+I am rank 0 on round 85 and I think pi is 3.146905 
+Round: 85 Pi: 3.145882 
+I am rank 0 on round 86 and I think pi is 3.145882 
+Round: 86 Pi: 3.146279 
+I am rank 0 on round 87 and I think pi is 3.146279 
+Round: 87 Pi: 3.147264 
+I am rank 0 on round 88 and I think pi is 3.147264 
+Round: 88 Pi: 3.147954 
+I am rank 0 on round 89 and I think pi is 3.147954 
+Round: 89 Pi: 3.147730 
+I am rank 0 on round 90 and I think pi is 3.147730 
+Round: 90 Pi: 3.147867 
+I am rank 0 on round 91 and I think pi is 3.147867 
+Round: 91 Pi: 3.146506 
+I am rank 0 on round 92 and I think pi is 3.146506 
+Round: 92 Pi: 3.147043 
+I am rank 0 on round 93 and I think pi is 3.147043 
+Round: 93 Pi: 3.147355 
+I am rank 0 on round 94 and I think pi is 3.147355 
+Round: 94 Pi: 3.147532 
+I am rank 0 on round 95 and I think pi is 3.147532 
+Round: 95 Pi: 3.148295 
+I am rank 0 on round 96 and I think pi is 3.148295 
+Round: 96 Pi: 3.147375 
+I am rank 0 on round 97 and I think pi is 3.147375 
+Round: 97 Pi: 3.147340 
+I am rank 0 on round 98 and I think pi is 3.147340 
+Round: 98 Pi: 3.146531 
+I am rank 0 on round 99 and I think pi is 3.146531 
+Round: 99 Pi: 3.145657 
+I am rank 0 on round 100 and I think pi is 3.145657 
+Round: 100 Pi: 3.146000 
+time taken: 0.026456s 
+I am rank 6 on round 69 and I think pi is 3.146647 
+Round: 69 Pi: 3.145275 
+I am rank 6 on round 70 and I think pi is 3.145275 
+Round: 70 Pi: 3.145600 
+I am rank 6 on round 71 and I think pi is 3.145600 
+Round: 71 Pi: 3.146366 
+I am rank 6 on round 72 and I think pi is 3.146366 
+Round: 72 Pi: 3.146167 
+I am rank 6 on round 73 and I think pi is 3.146167 
+Round: 73 Pi: 3.146630 
+I am rank 6 on round 74 and I think pi is 3.146630 
+Round: 74 Pi: 3.147243 
+I am rank 6 on round 75 and I think pi is 3.147243 
+Round: 75 Pi: 3.146080 
+I am rank 6 on round 76 and I think pi is 3.146080 
+Round: 76 Pi: 3.145895 
+I am rank 6 on round 77 and I think pi is 3.145895 
+Round: 77 Pi: 3.145091 
+I am rank 6 on round 78 and I think pi is 3.145091 
+Round: 78 Pi: 3.145231 
+I am rank 6 on round 79 and I think pi is 3.145231 
+Round: 79 Pi: 3.145519 
+I am rank 6 on round 80 and I think pi is 3.145519 
+Round: 80 Pi: 3.146000 
+I am rank 6 on round 81 and I think pi is 3.146000 
+Round: 81 Pi: 3.146173 
+I am rank 6 on round 82 and I think pi is 3.146173 
+Round: 82 Pi: 3.146146 
+I am rank 6 on round 83 and I think pi is 3.146146 
+Round: 83 Pi: 3.147133 
+I am rank 6 on round 84 and I think pi is 3.147133 
+Round: 84 Pi: 3.146905 
+I am rank 6 on round 85 and I think pi is 3.146905 
+Round: 85 Pi: 3.145882 
+I am rank 6 on round 86 and I think pi is 3.145882 
+Round: 86 Pi: 3.146279 
+I am rank 6 on round 87 and I think pi is 3.146279 
+Round: 87 Pi: 3.147264 
+I am rank 6 on round 88 and I think pi is 3.147264 
+Round: 88 Pi: 3.147954 
+I am rank 6 on round 89 and I think pi is 3.147954 
+Round: 89 Pi: 3.147730 
+I am rank 6 on round 90 and I think pi is 3.147730 
+Round: 90 Pi: 3.147867 
+I am rank 6 on round 91 and I think pi is 3.147867 
+Round: 91 Pi: 3.146506 
+I am rank 6 on round 92 and I think pi is 3.146506 
+Round: 92 Pi: 3.147043 
+I am rank 6 on round 93 and I think pi is 3.147043 
+Round: 93 Pi: 3.147355 
+I am rank 6 on round 94 and I think pi is 3.147355 
+Round: 94 Pi: 3.147532 
+I am rank 6 on round 95 and I think pi is 3.147532 
+Round: 95 Pi: 3.148295 
+I am rank 6 on round 96 and I think pi is 3.148295 
+Round: 96 Pi: 3.147375 
+I am rank 6 on round 97 and I think pi is 3.147375 
+Round: 97 Pi: 3.147340 
+I am rank 6 on round 98 and I think pi is 3.147340 
+Round: 98 Pi: 3.146531 
+I am rank 6 on round 99 and I think pi is 3.146531 
+Round: 99 Pi: 3.145657 
+I am rank 6 on round 100 and I think pi is 3.145657 
+Round: 100 Pi: 3.146000 
+time taken: 0.026494s 
+I am rank 4 on round 69 and I think pi is 3.146647 
+Round: 69 Pi: 3.145275 
+I am rank 4 on round 70 and I think pi is 3.145275 
+Round: 70 Pi: 3.145600 
+I am rank 4 on round 71 and I think pi is 3.145600 
+Round: 71 Pi: 3.146366 
+I am rank 4 on round 72 and I think pi is 3.146366 
+Round: 72 Pi: 3.146167 
+I am rank 4 on round 73 and I think pi is 3.146167 
+Round: 73 Pi: 3.146630 
+I am rank 4 on round 74 and I think pi is 3.146630 
+Round: 74 Pi: 3.147243 
+I am rank 4 on round 75 and I think pi is 3.147243 
+Round: 75 Pi: 3.146080 
+I am rank 4 on round 76 and I think pi is 3.146080 
+Round: 76 Pi: 3.145895 
+I am rank 4 on round 77 and I think pi is 3.145895 
+Round: 77 Pi: 3.145091 
+I am rank 4 on round 78 and I think pi is 3.145091 
+Round: 78 Pi: 3.145231 
+I am rank 4 on round 79 and I think pi is 3.145231 
+Round: 79 Pi: 3.145519 
+I am rank 4 on round 80 and I think pi is 3.145519 
+Round: 80 Pi: 3.146000 
+I am rank 4 on round 81 and I think pi is 3.146000 
+Round: 81 Pi: 3.146173 
+I am rank 4 on round 82 and I think pi is 3.146173 
+Round: 82 Pi: 3.146146 
+I am rank 4 on round 83 and I think pi is 3.146146 
+Round: 83 Pi: 3.147133 
+I am rank 4 on round 84 and I think pi is 3.147133 
+Round: 84 Pi: 3.146905 
+I am rank 4 on round 85 and I think pi is 3.146905 
+Round: 85 Pi: 3.145882 
+I am rank 4 on round 86 and I think pi is 3.145882 
+Round: 86 Pi: 3.146279 
+I am rank 4 on round 87 and I think pi is 3.146279 
+Round: 87 Pi: 3.147264 
+I am rank 4 on round 88 and I think pi is 3.147264 
+Round: 88 Pi: 3.147954 
+I am rank 4 on round 89 and I think pi is 3.147954 
+Round: 89 Pi: 3.147730 
+I am rank 4 on round 90 and I think pi is 3.147730 
+Round: 90 Pi: 3.147867 
+I am rank 4 on round 91 and I think pi is 3.147867 
+Round: 91 Pi: 3.146506 
+I am rank 4 on round 92 and I think pi is 3.146506 
+Round: 92 Pi: 3.147043 
+I am rank 4 on round 93 and I think pi is 3.147043 
+Round: 93 Pi: 3.147355 
+I am rank 4 on round 94 and I think pi is 3.147355 
+Round: 94 Pi: 3.147532 
+I am rank 4 on round 95 and I think pi is 3.147532 
+Round: 95 Pi: 3.148295 
+I am rank 4 on round 96 and I think pi is 3.148295 
+Round: 96 Pi: 3.147375 
+I am rank 4 on round 97 and I think pi is 3.147375 
+Round: 97 Pi: 3.147340 
+I am rank 4 on round 98 and I think pi is 3.147340 
+Round: 98 Pi: 3.146531 
+I am rank 4 on round 99 and I think pi is 3.146531 
+Round: 99 Pi: 3.145657 
+I am rank 4 on round 100 and I think pi is 3.145657 
+Round: 100 Pi: 3.146000 
+time taken: 0.026501s 
+I am rank 3 on round 69 and I think pi is 3.146647 
+Round: 69 Pi: 3.145275 
+I am rank 3 on round 70 and I think pi is 3.145275 
+Round: 70 Pi: 3.145600 
+I am rank 3 on round 71 and I think pi is 3.145600 
+Round: 71 Pi: 3.146366 
+I am rank 3 on round 72 and I think pi is 3.146366 
+Round: 72 Pi: 3.146167 
+I am rank 3 on round 73 and I think pi is 3.146167 
+Round: 73 Pi: 3.146630 
+I am rank 3 on round 74 and I think pi is 3.146630 
+Round: 74 Pi: 3.147243 
+I am rank 3 on round 75 and I think pi is 3.147243 
+Round: 75 Pi: 3.146080 
+I am rank 3 on round 76 and I think pi is 3.146080 
+Round: 76 Pi: 3.145895 
+I am rank 3 on round 77 and I think pi is 3.145895 
+Round: 77 Pi: 3.145091 
+I am rank 3 on round 78 and I think pi is 3.145091 
+Round: 78 Pi: 3.145231 
+I am rank 3 on round 79 and I think pi is 3.145231 
+Round: 79 Pi: 3.145519 
+I am rank 3 on round 80 and I think pi is 3.145519 
+Round: 80 Pi: 3.146000 
+I am rank 3 on round 81 and I think pi is 3.146000 
+Round: 81 Pi: 3.146173 
+I am rank 3 on round 82 and I think pi is 3.146173 
+Round: 82 Pi: 3.146146 
+I am rank 3 on round 83 and I think pi is 3.146146 
+Round: 83 Pi: 3.147133 
+I am rank 3 on round 84 and I think pi is 3.147133 
+Round: 84 Pi: 3.146905 
+I am rank 3 on round 85 and I think pi is 3.146905 
+Round: 85 Pi: 3.145882 
+I am rank 3 on round 86 and I think pi is 3.145882 
+Round: 86 Pi: 3.146279 
+I am rank 3 on round 87 and I think pi is 3.146279 
+Round: 87 Pi: 3.147264 
+I am rank 3 on round 88 and I think pi is 3.147264 
+Round: 88 Pi: 3.147954 
+I am rank 3 on round 89 and I think pi is 3.147954 
+Round: 89 Pi: 3.147730 
+I am rank 3 on round 90 and I think pi is 3.147730 
+Round: 90 Pi: 3.147867 
+I am rank 3 on round 91 and I think pi is 3.147867 
+Round: 91 Pi: 3.146506 
+I am rank 3 on round 92 and I think pi is 3.146506 
+Round: 92 Pi: 3.147043 
+I am rank 3 on round 93 and I think pi is 3.147043 
+Round: 93 Pi: 3.147355 
+I am rank 3 on round 94 and I think pi is 3.147355 
+Round: 94 Pi: 3.147532 
+I am rank 3 on round 95 and I think pi is 3.147532 
+Round: 95 Pi: 3.148295 
+I am rank 3 on round 96 and I think pi is 3.148295 
+Round: 96 Pi: 3.147375 
+I am rank 3 on round 97 and I think pi is 3.147375 
+Round: 97 Pi: 3.147340 
+I am rank 3 on round 98 and I think pi is 3.147340 
+Round: 98 Pi: 3.146531 
+I am rank 3 on round 99 and I think pi is 3.146531 
+Round: 99 Pi: 3.145657 
+I am rank 3 on round 100 and I think pi is 3.145657 
+Round: 100 Pi: 3.146000 
+time taken: 0.026349s 
+I am rank 1 on round 69 and I think pi is 3.146647 
+Round: 69 Pi: 3.145275 
+I am rank 1 on round 70 and I think pi is 3.145275 
+Round: 70 Pi: 3.145600 
+I am rank 1 on round 71 and I think pi is 3.145600 
+Round: 71 Pi: 3.146366 
+I am rank 1 on round 72 and I think pi is 3.146366 
+Round: 72 Pi: 3.146167 
+I am rank 1 on round 73 and I think pi is 3.146167 
+Round: 73 Pi: 3.146630 
+I am rank 1 on round 74 and I think pi is 3.146630 
+Round: 74 Pi: 3.147243 
+I am rank 1 on round 75 and I think pi is 3.147243 
+Round: 75 Pi: 3.146080 
+I am rank 1 on round 76 and I think pi is 3.146080 
+Round: 76 Pi: 3.145895 
+I am rank 1 on round 77 and I think pi is 3.145895 
+Round: 77 Pi: 3.145091 
+I am rank 1 on round 78 and I think pi is 3.145091 
+Round: 78 Pi: 3.145231 
+I am rank 1 on round 79 and I think pi is 3.145231 
+Round: 79 Pi: 3.145519 
+I am rank 1 on round 80 and I think pi is 3.145519 
+Round: 80 Pi: 3.146000 
+I am rank 1 on round 81 and I think pi is 3.146000 
+Round: 81 Pi: 3.146173 
+I am rank 1 on round 82 and I think pi is 3.146173 
+Round: 82 Pi: 3.146146 
+I am rank 1 on round 83 and I think pi is 3.146146 
+Round: 83 Pi: 3.147133 
+I am rank 1 on round 84 and I think pi is 3.147133 
+Round: 84 Pi: 3.146905 
+I am rank 1 on round 85 and I think pi is 3.146905 
+Round: 85 Pi: 3.145882 
+I am rank 1 on round 86 and I think pi is 3.145882 
+Round: 86 Pi: 3.146279 
+I am rank 1 on round 87 and I think pi is 3.146279 
+Round: 87 Pi: 3.147264 
+I am rank 1 on round 88 and I think pi is 3.147264 
+Round: 88 Pi: 3.147954 
+I am rank 1 on round 89 and I think pi is 3.147954 
+Round: 89 Pi: 3.147730 
+I am rank 1 on round 90 and I think pi is 3.147730 
+Round: 90 Pi: 3.147867 
+I am rank 1 on round 91 and I think pi is 3.147867 
+Round: 91 Pi: 3.146506 
+I am rank 1 on round 92 and I think pi is 3.146506 
+Round: 92 Pi: 3.147043 
+I am rank 1 on round 93 and I think pi is 3.147043 
+Round: 93 Pi: 3.147355 
+I am rank 1 on round 94 and I think pi is 3.147355 
+Round: 94 Pi: 3.147532 
+I am rank 1 on round 95 and I think pi is 3.147532 
+Round: 95 Pi: 3.148295 
+I am rank 1 on round 96 and I think pi is 3.148295 
+Round: 96 Pi: 3.147375 
+I am rank 1 on round 97 and I think pi is 3.147375 
+Round: 97 Pi: 3.147340 
+I am rank 1 on round 98 and I think pi is 3.147340 
+Round: 98 Pi: 3.146531 
+I am rank 1 on round 99 and I think pi is 3.146531 
+Round: 99 Pi: 3.145657 
+I am rank 1 on round 100 and I think pi is 3.145657 
+Round: 100 Pi: 3.146000 
+time taken: 0.026524s 
+
+============================
+ Job utilisation efficiency
+============================
+
+Job ID: 28105029
+Cluster: viking2.yor.alces.network
+User/Group: lj1219/clusterusers
+State: COMPLETED (exit code 0)
+Nodes: 1
+Cores per node: 8
+CPU Utilized: 00:00:05
+CPU Efficiency: 20.83% of 00:00:24 core-walltime
+Job Wall-clock time: 00:00:03
+Memory Utilized: 5.04 MB
+Memory Efficiency: 0.49% of 1.00 GB
+ Requested wall clock time: 00:15:00
+    Actual wall clock time: 00:00:03
+Wall clock time efficiency: 0.3%
+           Job queued time: 00:00:04

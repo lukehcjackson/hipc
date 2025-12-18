@@ -1,0 +1,55 @@
+allexport      	off
+braceexpand    	on
+emacs          	off
+errexit        	on
+errtrace       	off
+functrace      	off
+hashall        	on
+histexpand     	off
+history        	off
+ignoreeof      	off
+interactive-comments	on
+keyword        	off
+monitor        	off
+noclobber      	off
+noexec         	off
+noglob         	off
+nolog          	off
+notify         	off
+nounset        	on
+onecmd         	off
+physical       	off
+pipefail       	off
+posix          	off
+privileged     	off
+verbose        	off
+vi             	off
+xtrace         	off
+Hello, World! I am process 3 of 8
+Hello, World! I am process 2 of 8
+Hello, World! I am process 4 of 8
+Hello, World! I am process 6 of 8
+Hello, World! I am process 0 of 8
+Hello, World! I am process 7 of 8
+Hello, World! I am process 1 of 8
+Hello, World! I am process 5 of 8
+
+============================
+ Job utilisation efficiency
+============================
+
+Job ID: 28068164
+Cluster: viking2.yor.alces.network
+User/Group: lj1219/clusterusers
+State: COMPLETED (exit code 0)
+Nodes: 1
+Cores per node: 8
+CPU Utilized: 00:00:01
+CPU Efficiency: 4.17% of 00:00:24 core-walltime
+Job Wall-clock time: 00:00:03
+Memory Utilized: 159.88 MB (estimated maximum)
+Memory Efficiency: 15.61% of 1.00 GB (1.00 GB/node)
+ Requested wall clock time: 00:15:00
+    Actual wall clock time: 00:00:03
+Wall clock time efficiency: 0.3%
+           Job queued time: 00:00:19

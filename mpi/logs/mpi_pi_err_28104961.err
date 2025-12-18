@@ -1,0 +1,20 @@
+mpi-pi.c: In function ‘main’:
+mpi-pi.c:49:50: error: expected ‘;’ before ‘)’ token
+   49 |             current_pi = (float)in / (float)total)*4.0;
+      |                                                  ^
+      |                                                  ;
+mpi-pi.c:49:50: error: expected statement before ‘)’ token
+mpi-pi.c:49:51: error: invalid type argument of unary ‘*’ (have ‘double’)
+   49 |             current_pi = (float)in / (float)total)*4.0;
+      |                                                   ^~~~
+mpi-pi.c:51:63: error: expected ‘)’ before ‘;’ token
+   51 |             printf("Round: %d Pi: %lf \n" , rounds, current_pi;
+      |                   ~                                           ^
+      |                                                               )
+mpi-pi.c:51:64: error: expected ‘;’ before ‘}’ token
+   51 |             printf("Round: %d Pi: %lf \n" , rounds, current_pi;
+      |                                                                ^
+      |                                                                ;
+   52 | 
+   53 |         }
+      |         ~                                                       

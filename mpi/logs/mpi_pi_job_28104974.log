@@ -1,0 +1,147 @@
+allexport      	off
+braceexpand    	on
+emacs          	off
+errexit        	on
+errtrace       	off
+functrace      	off
+hashall        	on
+histexpand     	off
+history        	off
+ignoreeof      	off
+interactive-comments	on
+keyword        	off
+monitor        	off
+noclobber      	off
+noexec         	off
+noglob         	off
+nolog          	off
+notify         	off
+nounset        	on
+onecmd         	off
+physical       	off
+pipefail       	off
+posix          	off
+privileged     	off
+verbose        	off
+vi             	off
+xtrace         	off
+Round: 1 Pi: 3.212000 
+Round: 2 Pi: 3.182000 
+Round: 3 Pi: 3.158667 
+Round: 4 Pi: 3.133000 
+Round: 5 Pi: 3.124800 
+Round: 6 Pi: 3.108000 
+Round: 7 Pi: 3.108572 
+Round: 8 Pi: 3.117000 
+Round: 9 Pi: 3.120889 
+Round: 10 Pi: 3.122800 
+Round: 11 Pi: 3.132000 
+Round: 12 Pi: 3.136667 
+Round: 13 Pi: 3.133846 
+Round: 14 Pi: 3.131428 
+Round: 15 Pi: 3.130933 
+Round: 16 Pi: 3.136000 
+Round: 17 Pi: 3.138353 
+Round: 18 Pi: 3.134889 
+Round: 19 Pi: 3.137474 
+Round: 20 Pi: 3.136200 
+Round: 21 Pi: 3.131428 
+Round: 22 Pi: 3.134546 
+Round: 23 Pi: 3.132696 
+Round: 24 Pi: 3.136000 
+Round: 25 Pi: 3.136800 
+Round: 26 Pi: 3.137846 
+Round: 27 Pi: 3.140593 
+Round: 28 Pi: 3.141143 
+Round: 29 Pi: 3.140276 
+Round: 30 Pi: 3.141733 
+Round: 31 Pi: 3.144000 
+Round: 32 Pi: 3.143125 
+Round: 33 Pi: 3.140606 
+Round: 34 Pi: 3.140471 
+Round: 35 Pi: 3.143314 
+Round: 36 Pi: 3.143445 
+Round: 37 Pi: 3.142487 
+Round: 38 Pi: 3.138421 
+Round: 39 Pi: 3.139692 
+Round: 40 Pi: 3.139300 
+Round: 41 Pi: 3.139220 
+Round: 42 Pi: 3.138095 
+Round: 43 Pi: 3.141116 
+Round: 44 Pi: 3.141364 
+Round: 45 Pi: 3.139733 
+Round: 46 Pi: 3.139739 
+Round: 47 Pi: 3.140340 
+Round: 48 Pi: 3.141417 
+Round: 49 Pi: 3.142041 
+Round: 50 Pi: 3.142560 
+Round: 51 Pi: 3.142196 
+Round: 52 Pi: 3.141000 
+Round: 53 Pi: 3.141132 
+Round: 54 Pi: 3.139926 
+Round: 55 Pi: 3.142400 
+Round: 56 Pi: 3.141214 
+Round: 57 Pi: 3.138947 
+Round: 58 Pi: 3.139172 
+Round: 59 Pi: 3.139119 
+Round: 60 Pi: 3.139600 
+Round: 61 Pi: 3.141115 
+Round: 62 Pi: 3.141806 
+Round: 63 Pi: 3.141905 
+Round: 64 Pi: 3.142875 
+Round: 65 Pi: 3.143385 
+Round: 66 Pi: 3.143394 
+Round: 67 Pi: 3.142388 
+Round: 68 Pi: 3.142529 
+Round: 69 Pi: 3.142145 
+Round: 70 Pi: 3.143143 
+Round: 71 Pi: 3.143831 
+Round: 72 Pi: 3.143500 
+Round: 73 Pi: 3.143671 
+Round: 74 Pi: 3.143568 
+Round: 75 Pi: 3.143840 
+Round: 76 Pi: 3.143895 
+Round: 77 Pi: 3.144156 
+Round: 78 Pi: 3.145539 
+Round: 79 Pi: 3.144709 
+Round: 80 Pi: 3.145800 
+Round: 81 Pi: 3.144642 
+Round: 82 Pi: 3.144098 
+Round: 83 Pi: 3.145157 
+Round: 84 Pi: 3.145238 
+Round: 85 Pi: 3.145694 
+Round: 86 Pi: 3.145907 
+Round: 87 Pi: 3.146161 
+Round: 88 Pi: 3.146182 
+Round: 89 Pi: 3.146337 
+Round: 90 Pi: 3.146711 
+Round: 91 Pi: 3.146110 
+Round: 92 Pi: 3.146783 
+Round: 93 Pi: 3.147269 
+Round: 94 Pi: 3.146809 
+Round: 95 Pi: 3.146569 
+Round: 96 Pi: 3.146667 
+Round: 97 Pi: 3.146186 
+Round: 98 Pi: 3.147020 
+Round: 99 Pi: 3.146748 
+Round: 100 Pi: 3.146240 
+time taken: 0.024462s 
+
+============================
+ Job utilisation efficiency
+============================
+
+Job ID: 28104974
+Cluster: viking2.yor.alces.network
+User/Group: lj1219/clusterusers
+State: COMPLETED (exit code 0)
+Cores: 1
+CPU Utilized: 00:00:01
+CPU Efficiency: 50.00% of 00:00:02 core-walltime
+Job Wall-clock time: 00:00:02
+Memory Utilized: 3.61 MB
+Memory Efficiency: 0.35% of 1.00 GB
+ Requested wall clock time: 00:15:00
+    Actual wall clock time: 00:00:02
+Wall clock time efficiency: 0.2%
+           Job queued time: 00:00:02

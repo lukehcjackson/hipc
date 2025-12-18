@@ -1,0 +1,8 @@
+mpi-pi.c: In function ‘main’:
+mpi-pi.c:22:11: warning: implicit declaration of function ‘time’ [-Wimplicit-function-declaration]
+   22 |     srand(time(NULL));
+      |           ^~~~
+mpi-pi.c:5:1: note: ‘time’ is defined in header ‘<time.h>’; did you forget to ‘#include <time.h>’?
+    4 | #include <sys/time.h>
+  +++ |+#include <time.h>
+    5 | 

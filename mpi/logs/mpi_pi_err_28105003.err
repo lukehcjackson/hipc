@@ -1,0 +1,43 @@
+mpi-pi.c: In function ‘main’:
+mpi-pi.c:15:5: warning: implicit declaration of function ‘MPI_Init’ [-Wimplicit-function-declaration]
+   15 |     MPI_Init(&argc, &argv);
+      |     ^~~~~~~~
+mpi-pi.c:17:5: warning: implicit declaration of function ‘MPI_Comm_size’ [-Wimplicit-function-declaration]
+   17 |     MPI_Comm_size(MPI_COMM_WORLD, &size);
+      |     ^~~~~~~~~~~~~
+mpi-pi.c:17:19: error: ‘MPI_COMM_WORLD’ undeclared (first use in this function)
+   17 |     MPI_Comm_size(MPI_COMM_WORLD, &size);
+      |                   ^~~~~~~~~~~~~~
+mpi-pi.c:17:19: note: each undeclared identifier is reported only once for each function it appears in
+mpi-pi.c:17:36: error: ‘size’ undeclared (first use in this function)
+   17 |     MPI_Comm_size(MPI_COMM_WORLD, &size);
+      |                                    ^~~~
+mpi-pi.c:18:5: warning: implicit declaration of function ‘MPI_Comm_rank’ [-Wimplicit-function-declaration]
+   18 |     MPI_Comm_rank(MPI_COMM_WORLD, &rank);
+      |     ^~~~~~~~~~~~~
+mpi-pi.c:18:36: error: ‘rank’ undeclared (first use in this function); did you mean ‘rand’?
+   18 |     MPI_Comm_rank(MPI_COMM_WORLD, &rank);
+      |                                    ^~~~
+      |                                    rand
+mpi-pi.c:20:11: warning: implicit declaration of function ‘time’ [-Wimplicit-function-declaration]
+   20 |     srand(time(NULL));
+      |           ^~~~
+mpi-pi.c:5:1: note: ‘time’ is defined in header ‘<time.h>’; did you forget to ‘#include <time.h>’?
+    4 | #include <sys/time.h>
+  +++ |+#include <time.h>
+    5 | 
+mpi-pi.c:23:17: warning: implicit declaration of function ‘MPI_Wtime’ [-Wimplicit-function-declaration]
+   23 |     double t0 = MPI_Wtime();
+      |                 ^~~~~~~~~
+mpi-pi.c:59:9: warning: implicit declaration of function ‘MPI_AllReduce’ [-Wimplicit-function-declaration]
+   59 |         MPI_AllReduce(&local_in, &in, 1, MPI_INT, MPI_SUM, MPI_COMM_WORLD);
+      |         ^~~~~~~~~~~~~
+mpi-pi.c:59:42: error: ‘MPI_INT’ undeclared (first use in this function)
+   59 |         MPI_AllReduce(&local_in, &in, 1, MPI_INT, MPI_SUM, MPI_COMM_WORLD);
+      |                                          ^~~~~~~
+mpi-pi.c:59:51: error: ‘MPI_SUM’ undeclared (first use in this function)
+   59 |         MPI_AllReduce(&local_in, &in, 1, MPI_INT, MPI_SUM, MPI_COMM_WORLD);
+      |                                                   ^~~~~~~
+mpi-pi.c:75:5: warning: implicit declaration of function ‘MPI_Finalize’ [-Wimplicit-function-declaration]
+   75 |     MPI_Finalize();
+      |     ^~~~~~~~~~~~
