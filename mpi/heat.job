@@ -1,0 +1,41 @@
+#!/bin/bash
+
+#SBATCH --job-name=mpi_heat  # Job name
+#SBATCH --time=00:15:00                 # Maximum time (HH:MM:SS)
+#SBATCH --cpus-per-task=1                   
+#SBATCH --nodes=1			            # run on one node
+#SBATCH --ntasks=8  
+#SBATCH --ntasks-per-node=8            # use 10 tasks per node
+#SBATCH --mem-per-cpu=600mb             # allocate 600mb memory per CPU
+#SBATCH --output=logs/mpi_heat_job_%j.log     # standard output log
+#SBATCH --error=logs/mpi_heat_err_%j.err      # standard error log
+#SBATCH --partition=teach               # run in the teaching queue
+#SBATCH --account=cs-teach-2025         # specify the CS teaching account
+#SBATCH --mail-type=END,FAIL            # Mail events (NONE, BEGIN, END, FAIL, ALL)
+#SBATCH --mail-user=lj1219@york.ac.uk   # Where to send mail 
+
+#abort if any command fails
+set -euo
+
+# purge any existing modules
+module purge
+
+# Load modules
+#need corresponding versions of openmpi and cuda
+module load GCC/12.3.0
+module load OpenMPI/4.1.5-GCC-12.3.0
+#CUDA/12.3.1
+
+# Commands to run
+
+#mpicc -o hello hello.c
+mpicc -o heat_equation heat_equation.c -lm
+mpirun -n ${SLURM_NTASKS} ./heat_equation
+#srun ./mpi-pi 10
+#gcc -o mpi-pi mpi-pi.c -lm
+#./mpi-pi 1000
+
+#can remove ntasks line
+#launch with sbatch --ntasks=8 mpi_job.sh
+
+#and use the mpirun execute command instead of srun

@@ -1,0 +1,63 @@
+allexport      	off
+braceexpand    	on
+emacs          	off
+errexit        	on
+errtrace       	off
+functrace      	off
+hashall        	on
+histexpand     	off
+history        	off
+ignoreeof      	off
+interactive-comments	on
+keyword        	off
+monitor        	off
+noclobber      	off
+noexec         	off
+noglob         	off
+nolog          	off
+notify         	off
+nounset        	on
+onecmd         	off
+physical       	off
+pipefail       	off
+posix          	off
+privileged     	off
+verbose        	off
+vi             	off
+xtrace         	off
+Heated Plate calculation
+Rank 7 start and end: 874, 999, requires (M x N): (200 x 126)
+Heated Plate calculation
+Rank 4 start and end: 499, 625, requires (M x N): (200 x 127)
+Heated Plate calculation
+Rank 5 start and end: 624, 750, requires (M x N): (200 x 127)
+Heated Plate calculation
+Rank 0 start and end: 0, 125, requires (M x N): (200 x 126)
+Heated Plate calculation
+Rank 6 start and end: 749, 875, requires (M x N): (200 x 127)
+Heated Plate calculation
+Rank 2 start and end: 249, 375, requires (M x N): (200 x 127)
+Heated Plate calculation
+Rank 3 start and end: 374, 500, requires (M x N): (200 x 127)
+Heated Plate calculation
+Rank 1 start and end: 124, 250, requires (M x N): (200 x 127)
+
+============================
+ Job utilisation efficiency
+============================
+
+Job ID: 28107570
+Cluster: viking2.yor.alces.network
+User/Group: lj1219/clusterusers
+State: COMPLETED (exit code 0)
+Nodes: 1
+Cores per node: 8
+CPU Utilized: 00:00:04
+CPU Efficiency: 16.67% of 00:00:24 core-walltime
+Job Wall-clock time: 00:00:03
+Memory Utilized: 4.98 MB
+Memory Efficiency: 0.10% of 4.69 GB
+ Requested wall clock time: 00:15:00
+    Actual wall clock time: 00:00:03
+Wall clock time efficiency: 0.3%
+           Job queued time: 00:00:11

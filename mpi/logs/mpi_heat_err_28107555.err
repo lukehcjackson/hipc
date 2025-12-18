@@ -1,0 +1,6 @@
+heat_equation.c: In function ‘main’:
+heat_equation.c:53:99: error: ‘sizej’ undeclared (first use in this function); did you mean ‘size’?
+   53 |     printf("Rank %d start and end: %d, %d, requires (M x N): (%d x %d)\n", rank, startj, endj, M, sizej);
+      |                                                                                                   ^~~~~
+      |                                                                                                   size
+heat_equation.c:53:99: note: each undeclared identifier is reported only once for each function it appears in
