@@ -1,0 +1,28 @@
+#!/bin/bash
+
+#SBATCH --job-name=cuda-prac  # Job name
+#SBATCH --time=00:15:00                 # Maximum time (HH:MM:SS)
+#SBATCH --ntasks=1                      # run on a single CPU
+#SBATCH --nodes=1			            # run on one node
+#SBATCH --cpus-per-task=1
+#SBATCH --mem=1gb                       # reserve 1GB memory for job
+#SBATCH --partition=gpu                 # "gpu" will allocate an A40, "gpuplus" will allocate an H100
+#SBATCH --gres=gpu:1
+#SBATCH --output=logs/cuda_mc_job_%j.log     # standard output log
+#SBATCH --error=logs/cuda_mc_err_%j.err      # standard error log
+#SBATCH --account=cs-teach-2025         # specify the CS teaching account
+#SBATCH --mail-type=END,FAIL            # Mail events (NONE, BEGIN, END, FAIL, ALL)
+#SBATCH --mail-user=lj1219@york.ac.uk   # Where to send mail 
+
+#abort if any command fails
+set -euo
+
+# purge any existing modules
+module purge
+
+# Load modules
+module load CUDA/11.0.2-GCC-9.3.0
+
+# Commands to run
+nvcc monte-carlo.cu -o monte
+./monte

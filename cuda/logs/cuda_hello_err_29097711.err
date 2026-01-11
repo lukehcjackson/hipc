@@ -1,0 +1,4 @@
+hello-world.cu(5): warning: variable "index" was declared but never referenced
+
+hello-world.cu(6): warning: variable "stride" was declared but never referenced
+

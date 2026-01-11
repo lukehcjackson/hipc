@@ -1,0 +1,3 @@
+vec_add.cu(11): warning: variable "out" was declared but never referenced
+
+/var/spool/slurmd.spool/job29097717/slurm_script: line 28: 583423 Segmentation fault      (core dumped) ./vec_add

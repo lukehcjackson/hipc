@@ -1,0 +1,125 @@
+monte-carlo.cu(10): error: attribute "__global__" does not apply here
+
+monte-carlo.cu(10): error: incomplete type is not allowed
+
+monte-carlo.cu(10): error: type name is not allowed
+
+monte-carlo.cu(10): error: expected a ")"
+
+monte-carlo.cu(10): error: expected a ";"
+
+monte-carlo.cu(31): warning: parsing restarts here after previous syntax error
+
+monte-carlo.cu(33): error: expected a declaration
+
+monte-carlo.cu(73): warning: parsing restarts here after previous syntax error
+
+monte-carlo.cu(74): error: this declaration has no storage class or type specifier
+
+monte-carlo.cu(74): error: expected a ";"
+
+monte-carlo.cu(75): error: this declaration has no storage class or type specifier
+
+monte-carlo.cu(75): error: variable "status" has already been defined
+
+monte-carlo.cu(75): error: expected a ";"
+
+monte-carlo.cu(78): error: expected a declaration
+
+monte-carlo.cu(85): warning: parsing restarts here after previous syntax error
+
+monte-carlo.cu(86): error: identifier "blocks" is undefined
+
+monte-carlo.cu(86): error: identifier "threads" is undefined
+
+monte-carlo.cu(89): error: this declaration has no storage class or type specifier
+
+monte-carlo.cu(89): error: declaration is incompatible with "int clock_gettime(clockid_t, timespec *)"
+/usr/include/time.h(219): here
+
+monte-carlo.cu(89): error: identifier "tstart" is undefined
+
+monte-carlo.cu(89): error: too many initializer values
+
+monte-carlo.cu(92): error: this declaration has no storage class or type specifier
+
+monte-carlo.cu(92): error: declaration is incompatible with overloaded function "cudaMalloc"
+/opt/apps/eb/software/CUDAcore/11.0.2/bin/../targets/x86_64-linux/include/cuda_device_runtime_api.h(75): here
+
+monte-carlo.cu(92): error: identifier "count_d" is undefined
+
+monte-carlo.cu(92): error: too many initializer values
+
+monte-carlo.cu(94): error: explicit type is missing ("int" assumed)
+
+monte-carlo.cu(96): error: this declaration has no storage class or type specifier
+
+monte-carlo.cu(96): error: variable "monte" has already been defined
+
+monte-carlo.cu(96): error: expected a ";"
+
+monte-carlo.cu(101): error: explicit type is missing ("int" assumed)
+
+monte-carlo.cu(101): error: cannot overload functions distinguished by return type alone
+
+monte-carlo.cu(102): error: explicit type is missing ("int" assumed)
+
+monte-carlo.cu(105): error: this declaration has no storage class or type specifier
+
+monte-carlo.cu(105): error: declaration is incompatible with "cudaError_t cudaMemcpy(void *, const void *, size_t, cudaMemcpyKind)"
+/opt/apps/eb/software/CUDAcore/11.0.2/bin/../targets/x86_64-linux/include/cuda_runtime_api.h(5603): here
+
+monte-carlo.cu(105): error: too many initializer values
+
+monte-carlo.cu(105): error: a value of type "int *" cannot be used to initialize an entity of type "int"
+
+monte-carlo.cu(108): error: expected a declaration
+
+monte-carlo.cu(113): warning: parsing restarts here after previous syntax error
+
+monte-carlo.cu(114): error: this declaration has no storage class or type specifier
+
+monte-carlo.cu(114): error: declaration is incompatible with "cudaError_t cudaFree(void *)"
+/opt/apps/eb/software/CUDAcore/11.0.2/bin/../targets/x86_64-linux/include/cuda_device_runtime_api.h(143): here
+
+monte-carlo.cu(115): error: this declaration has no storage class or type specifier
+
+monte-carlo.cu(115): error: declaration is incompatible with "void free(void *)"
+/opt/apps/eb/software/CUDAcore/11.0.2/bin/../targets/x86_64-linux/include/crt/common_functions.h(150): here
+
+monte-carlo.cu(115): error: a value of type "int *" cannot be used to initialize an entity of type "int"
+
+monte-carlo.cu(118): error: this declaration has no storage class or type specifier
+
+monte-carlo.cu(118): error: identifier "n_iter" is undefined
+
+monte-carlo.cu(120): error: this declaration has no storage class or type specifier
+
+monte-carlo.cu(120): error: variable "clock_gettime" has already been defined
+
+monte-carlo.cu(120): error: identifier "tend" is undefined
+
+monte-carlo.cu(120): error: too many initializer values
+
+monte-carlo.cu(122): error: this declaration has no storage class or type specifier
+
+monte-carlo.cu(122): error: declaration is incompatible with "int printf(const char *, ...)"
+/opt/apps/eb/software/CUDAcore/11.0.2/bin/../targets/x86_64-linux/include/crt/common_functions.h(145): here
+
+monte-carlo.cu(122): error: too many initializer values
+
+monte-carlo.cu(122): error: a value of type "const char *" cannot be used to initialize an entity of type "int"
+
+monte-carlo.cu(123): error: this declaration has no storage class or type specifier
+
+monte-carlo.cu(123): error: variable "printf" has already been defined
+
+monte-carlo.cu(124): error: too many initializer values
+
+monte-carlo.cu(123): error: a value of type "const char *" cannot be used to initialize an entity of type "int"
+
+monte-carlo.cu(127): error: expected a declaration
+
+monte-carlo.cu(128): error: expected a declaration
+
+55 errors detected in the compilation of "monte-carlo.cu".

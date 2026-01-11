@@ -1,0 +1,4 @@
+hello-world.cu(6): warning: variable "stride" was declared but never referenced
+
+hello-world.cu(8): warning: variable "global_thread_id" was declared but never referenced
+
